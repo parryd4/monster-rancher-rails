@@ -1,0 +1,55 @@
+# Ranch
+
+Top left: Bordered Box
+YEAR
+WK MONTH
+ex:
+ 1008
+3wk Oct
+
+PSX Right Side Vertical Menu:
+ ----------
+| Training |
+|   Rest   |
+|  Battle  |
+|   Item   |
+|   File   |
+ ----------
+Square Button Icon: Data, Circle Icon: Help
+
+Bottom Bar Spanning most of Screen: Small Headers,
+Style | Loyalty | Money
+-------------------------
+|Soft |  83 |  135000G
+
+Center of Screen has Monster. Background theme depends on season.
+Background has shots of Hills, Mountain, Ranch's Barn, Barn + Windmill, eventually random generate each redirect/render, maybe if statement on time of day
+
+
+Data Screens: Centered Header: "Monster Data"
+1 Screen: Battle Stats
+Table
+Lif. | Lv.5 -yellow- | 439
+Pow. | Lv. -red-     |
+Int. | Lv. -green-   |
+Ski. | Lv. purple
+Spd. | Lv  l.blue
+Def. | Lv  drk.blue |
+
+Fame: 38
+
+Bottom Bar:
+[BreedIcon] [ClassIcon] [Name] [Age]
+[#] [D] [Fluffy    ] [  2yr. _9mo.]
+Icons range in color for rank
+
+2 Screen:
+ Style Doting     Form | Skinny
+        PICTURE
+                  Nature | Good
+   Likes  | Rest
+ Dislikes | Potato
+
+3 Screen:
+
+4 Screen: Attacks

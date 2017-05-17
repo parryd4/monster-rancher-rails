@@ -1,0 +1,17 @@
+<table border="1">
+  <tr>
+    <th>Monster Name</th>
+    <th>Image</th>
+    <th>Get</th>
+  </tr>
+
+  <% @monsters.each do |monster| %>
+    <tr>
+      <td><%= monster.name %></td>
+      <td><%= image_tag monster.img %></td>
+      <td><%= link_to "Get", market_path(id: monster.id), method: 'post' %></td>
+    </tr>
+  <% end %>
+
+</table>
+<%= link_to "Town", town_path %>

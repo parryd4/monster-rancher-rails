@@ -1,0 +1,19 @@
+NAME: Zuum
+STATS: 130/120/80/140/100/110
+GAINS: 3/3/2/4/3/3
+
+NAME: Suezo
+STATS: 80/120/170/130/90/100
+GAINS: 2/3/5/4/2/2
+
+Zuum/Zuum                  | 130 | 120 | 80  | 140 | 100 | 110 | Sk L P D Sp I
+Corrected Base:            | 130 | 120 | 40  | 210 | 100 | 110 |
+
+Suezo/Suezo                | 80  | 120 | 170 | 130 | 90  | 100 | I Sk P D L Sp
+Corrected Base:            | 40  | 120 | 340 | 195 | 45  | 50  |
+
+Suezo/Zuum                 | 80  | 120 | 150 | 130 | 90  | 100 | I Sk P D Sp L
+DIF FROM MAIN              = 0     0    -20    0     0     0
+
+
+Zuum/Suezo                 | 140 | 110 | 100 | 150 | 120 | 130 | Sk L D Sp P I
