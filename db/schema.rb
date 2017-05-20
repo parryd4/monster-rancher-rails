@@ -28,6 +28,7 @@ ActiveRecord::Schema.define(version: 20170516001243) do
     t.integer "user_id"
     t.string "status", default: "active"
     t.string "name"
+    t.integer "age", default: 0
     t.integer "remaining_life"
     t.integer "lifespan"
     t.integer "lif"

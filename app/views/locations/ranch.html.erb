@@ -1,6 +1,6 @@
 
 <%= game_time.html_safe %>
-<%= current_user.game_time %>
+<h3><%= current_monster.fatigue_stress_warning %></h3>
 
 <h2><%= flash[:notice] %></h2>
 
@@ -12,7 +12,7 @@
       <li>Sparring</li>
     </ul>
   </li>
-  <li>Rest</li>
+  <li><%= link_to "Rest", rest_path, method: 'put' %></li>
   <li>Battle</li>
   <li>Item</li>
   <li><%= link_to "Town", town_path %></li>

@@ -14,4 +14,6 @@ Rails.application.routes.draw do
   get '/ranch', to: 'locations#ranch'
 
   get '/drills', to: 'monsters#drills'
+  put '/train/:id', to: 'monsters#train', as: 'train'
+  put '/rest', to: 'monsters#rest', as: 'rest'
 end

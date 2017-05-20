@@ -1,8 +1,100 @@
+
+Research: Stress and Fatigue
+Monster Rancher Metropolis: Monster Rancher Advance 2 Archive (GameBoy Advance): Miscellaneous Q&A (Post New Questions Here): Research: Stress and Fatigue
+By Jimeous on Wednesday, August 6, 2003 - 03:09 am:
+Fatigue
+Fatigue 0 : Monster looks really Energetic
+Fatigue 1 - 190 : Monster looks pretty lively
+Fatigue 191 - 290 : Monster seems to be in good shape
+Fatigue 291 - 390 : Monster seems to be a little tired
+Fatigue 391 - 490 : Monster is tired
+Fatigue 491 - 690 : Monster is really worn out.
+Fatigue 691 - 890 : Monster is exhausted.
+Fatigue 891 - 999 : Monster about to collapse!
+
+Items which remove Fatigue
+HonCandy : Removes 30 Fatigue
+OilyOil : Removes 128 Fatigue
+MntCandy : Removes 100 Stress and Removes 50 Fatigue.
+
+SilvrCup : Removes 5 Fatigue per week
+GoldCup : Removes 25 Fatigue per week
+HolyCup : Removes 45 Fatigue per week
+
+Cups are not accumulative, in other words owning more than one cup of different types of cups will not remove more Fatigue
+
+Conditions which affect Fatigue
+Completing a Tournament : Adds 300-303 Fatigue
+Withdrawing or Giving up in a Tournament: Adds 400-403 Fatigue
+Getting seriously injured in a Tournament: Adds 500-503 Fatigue
+Training not included at this stage, not sure if I will research this
+
+STRESS
+Stress: 291 - 490: Monster seems a little stressed.
+Stress: 491 - 690: Monster seems pretty stressed.
+Stress: 691 - 999: Monster seems really stressed.
+
+Items which remove Stress
+NitroBer : Removes 50 Stress
+MintLeaf : Removes 80 Stress
+MntCandy : Removes 100 Stress and Removes 50 Fatigue.
+
+ShinyGem : Removes 3 Stress per week
+GlimrGem : Removes 13 Stress per week
+BrghtGem : Removes 23 Stress per week
+
+Gem affects not accumulative, in other words owning more than one gem or more types of gems will not remove more Stress
+
+Conditions which affect Stress
+Not Scolding monster after failing : Removes 20 Stress
+Not Praising monster after a GREAT training : Adds 30 Stress
+Praising a monster after a GREAT training : Removes 50 Stress
+
+Winning a Tournament : Removes 400-403 Stress
+Withdrawing or Giving up after a tournament: Removes 300-303 Stress
+
+Not Praising after winning a tournament : Adds 30 Stress
+Praising after winning a tournament : Removes 50 Stress
+
+Not Praising it after placing : Adds 50 Stress
+Praising after placing in a tournament: Removes 20 Stress
+
+Training not included, again not sure if I'll research this
+
+RESTING
+
+Resting no items : Removes 220-250 Stress and 420-500 Fatigue
+
+Incense : Removes 260-300 Stress and 520-600 Fatigue per Rest
+AromaPot : Removes 320-400 Stress and 720-800 Fatigue per Rest
+
+Incense and AromaPot work only when resting, and are not accumulative.
+
+By Jimeous on Wednesday, August 6, 2003 - 04:26 am:
+Fatigue Vs Battles
+
+Fatigue affects stats at 310, or when a Monster seems a little tired.
+
+Some rough guides of losses in stats follows.
+
+Monster looks really Energetic : No Stat Loss
+Monster looks pretty lively : No Stat Loss
+Monster seems to be in good shape : No Stat Loss
+Monster seems to be a little tired : Stat Loss 0-9%
+Monster is tired : Stat Loss 9-19%
+Monster is really worn out : Stat Loss 19-39%
+Monster is exhausted. : Stat Loss 39-59%
+Monster about to collapse! : Stat Loss 59-69%
+
+
+----------------
+
+
 Rest
 MR2A:
   Reg: 220-250 stress, 420-500 fatigue
   Incense: 260-300 stress, 520-600 fatigue
-  Aroma Pot: 320-400, 720-800
+  Aroma Pot: 320-400 stress, 720-800
 MR2:
   Rest: -33 to -47 Fatigue/-5 to -10 stress
   w/ lump: -43 to -55 / -9 to -12

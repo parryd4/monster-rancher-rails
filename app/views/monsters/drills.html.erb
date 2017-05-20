@@ -1,17 +1,32 @@
 <h2><%= @monster.name %></h2>
 <%= image_tag(@monster.img, height: '90', width: '120') %>
-<h3>Remaining Life: <%= @monster.remaining_life %>
+Remaining Life: <%= @monster.remaining_life %>
 <table>
   <tr>
     <td>Fatigue</td>
-    <td>Stress</td>
-  </tr>
-  <tr>
-
-    <td><%= @monster.stress %></td>
     <td><%= @monster.fatigue %></td>
   </tr>
+  <tr>
+    <td>Stress</td>
+    <td><%= @monster.stress %></td>
+  </tr>
 </table>
+  <p>Lif <%= @monster.lif %></p>
+  <p>Pow <%= @monster.pow %></p>
+  <p>Int <%= @monster.int %></p>
+  <p>Ski <%= @monster.ski %></p>
+  <p>Spd <%= @monster.spd %></p>
+  <p>Def <%= @monster.def %></p>
 <br>
 <br>
-      <td><%= link_to  market_path(id: monster.id), method: 'put' %></td>
+<%= link_to "Domino", train_path(id: "pow"), method: 'put' %>
+<%= link_to "Shoot", train_path(id: "ski"), method: 'put' %>
+<%= link_to "Study", train_path(id: "int"), method: 'put' %>
+<%= link_to "Dodge", train_path(id: "spd"), method: 'put' %>
+<%= link_to "Run", train_path(id: "lif"), method: 'put' %>
+<%= link_to "Endure", train_path(id: "def"), method: 'put' %>
+<h3>Heavy Drills</h3>
+<%= link_to "Pull", train_path(id: "pow,lif,spd"), method: 'put' %>
+<%= link_to "Leap", train_path(id: "spd,int,pow"), method: 'put' %>
+<%= link_to "Meditate", train_path(id: "int,ski,def"), method: 'put' %>
+<%= link_to "Leap", train_path(id: "def,lif,int"), method: 'put' %>

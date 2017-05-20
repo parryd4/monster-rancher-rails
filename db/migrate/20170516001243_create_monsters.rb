@@ -6,6 +6,7 @@ class CreateMonsters < ActiveRecord::Migration[5.1]
 
       t.string :name
 
+      t.integer :age, default: 0
       t.integer :remaining_life
       t.integer :lifespan
 #      t.integer :growth_type
