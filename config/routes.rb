@@ -8,5 +8,10 @@ Rails.application.routes.draw do
   get '/town', to: 'locations#town'
   get '/market', to: 'locations#market'
   post '/market', to: 'monsters#create_market'
+
   get '/lab', to: 'locations#lab'
+
+  get '/ranch', to: 'locations#ranch'
+
+  get '/drills', to: 'monsters#drills'
 end

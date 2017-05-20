@@ -14,4 +14,10 @@ class MonstersController < ApplicationController
     redirect_to town_path
   end
 
+
+  def drills
+    redirect_to town_path if !current_monster
+    @monster = current_monster
+  end
+
 end

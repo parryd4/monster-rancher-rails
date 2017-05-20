@@ -14,6 +14,7 @@ PSX Right Side Vertical Menu:
 |  Battle  |
 |   Item   |
 |   File   |
+|   Town   |
  ----------
 Square Button Icon: Data, Circle Icon: Help
 

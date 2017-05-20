@@ -1,7 +1,9 @@
+<%= game_time.html_safe %>
+
 <h2>Welcome to the town</h2>
 <h2><%= flash[:notice] %></h2>
 <h2><%= current_user.monsters.size %></h2>
 <ul>
   <li><%= link_to "Market", market_path %></li>
-  <li>Ranch</li>
+  <li><%= link_to "Ranch", ranch_path %></li>
 </ul>

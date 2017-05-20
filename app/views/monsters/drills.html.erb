@@ -1,0 +1,17 @@
+<h2><%= @monster.name %></h2>
+<%= image_tag(@monster.img, height: '90', width: '120') %>
+<h3>Remaining Life: <%= @monster.remaining_life %>
+<table>
+  <tr>
+    <td>Fatigue</td>
+    <td>Stress</td>
+  </tr>
+  <tr>
+
+    <td><%= @monster.stress %></td>
+    <td><%= @monster.fatigue %></td>
+  </tr>
+</table>
+<br>
+<br>
+      <td><%= link_to  market_path(id: monster.id), method: 'put' %></td>

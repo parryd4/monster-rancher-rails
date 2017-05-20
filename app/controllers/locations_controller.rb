@@ -1,6 +1,6 @@
 class LocationsController < ApplicationController
-
-  def town
+  before_action :require_login
+  def lab
 
   end
 
@@ -8,7 +8,14 @@ class LocationsController < ApplicationController
     @monsters = MonsterTemplate.all
   end
 
-  def lab
+  def ranch
+    if !current_monster
+      flash[:notice] = "Let's find a monster to bring back to the ranch!"
+      redirect_to town_path
+    end
+  end
+
+  def town
 
   end
 

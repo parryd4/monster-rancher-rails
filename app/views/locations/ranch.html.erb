@@ -1,0 +1,19 @@
+
+<%= game_time.html_safe %>
+<%= current_user.game_time %>
+
+<h2><%= flash[:notice] %></h2>
+
+<ul>
+  <li>Training
+    <ul>
+      <li><%= link_to "Drills", drills_path %></li>
+      <li>Errantry</li>
+      <li>Sparring</li>
+    </ul>
+  </li>
+  <li>Rest</li>
+  <li>Battle</li>
+  <li>Item</li>
+  <li><%= link_to "Town", town_path %></li>
+</ul>

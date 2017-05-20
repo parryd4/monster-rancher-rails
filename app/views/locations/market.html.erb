@@ -1,15 +1,30 @@
 <table border="1">
   <tr>
-    <th>Monster Name</th>
+    <th>Name</th>
     <th>Image</th>
-    <th>Get</th>
+    <th>Stats</th>
   </tr>
 
   <% @monsters.each do |monster| %>
     <tr>
       <td><%= monster.name %></td>
-      <td><%= image_tag monster.img %></td>
-      <td><%= link_to "Get", market_path(id: monster.id), method: 'post' %></td>
+      <td><%= link_to image_tag(monster.img, height: '90', width: '120'), market_path(id: monster.id), method: 'post' %></td>
+      <td>
+        <table border="1">
+          <tr>
+            <td>Lif</td><td><%= monster.lif %></td>
+            <td>Pow</td><td><%= monster.pow %></td>
+          </tr>
+          <tr>
+            <td>Int</td><td><%= monster.int %></td>
+            <td>Ski</td><td><%= monster.ski %></td>
+          </tr>
+          <tr>
+            <td>Spd</td><td><%= monster.spd %></td>
+            <td>Def</td><td><%= monster.def %></td>
+          </tr>
+        </table>
+      </td>
     </tr>
   <% end %>
 
