@@ -1,0 +1,57 @@
+Rest
+MR2A:
+  Reg: 220-250 stress, 420-500 fatigue
+  Incense: 260-300 stress, 520-600 fatigue
+  Aroma Pot: 320-400, 720-800
+MR2:
+  Rest: -33 to -47 Fatigue/-5 to -10 stress
+  w/ lump: -43 to -55 / -9 to -12
+
+mydecision    Barn size:  0 |  1 |  2
+      -Stress: -5 | -7 |  -10 |
+     -Fatigue:
+MR2A:
+Cups remove weekly fatigue,
+  Silver: 5, Gold: 25, Holy: 45
+Fatigue
+Tournament complete: 300-303
+Withdraw/giveup: 400-403
+Get Injured: 500-503
+Stress
+Win: remove 400-403
+Withdraw/giveup: removes 300-303
+
+MR2
+Light Drill: +10 Fatigue/+5 Stress
+Hard Drill: +15 Fatigue/+12 Stress
+Errantry: +18 Fatigue/+7 Stress per week
+Expedition: +70 Fatigue/0 Stress
+Rest: -33 to -47 Fatigue/-5 to -10 stress
+Win tournament: +37 Fatigue, -75 Stress
+Do well in tournament, but don't win: +50 Fatigue, -62 Stress
+Do poorly in tournament: +62 Fatigue, -50 Stress
+Fatigue + (Stress x2) = Lifespan Index
+
+
+
+MRA2:
+Fatigue Sayings
+      0 : Monster looks really energetic
+  1-190 : Monster looks pretty lively
+191-290 : Monster seems to be in good shape
+291-390 : Monster seems to be a little tired
+391-490 : Monster is tired
+491-691 : Monster is really worn out
+691-890 : Monster is exhausted
+891-999 : Monster is about to collapse
+
+MR2:
+Fatigue Sayings
+0 :
+1 - 11:
+11 - 41: "seems well"
+41 - 61: "seems tired" (visibly after 50)
+61 - 71 : "seems pretty tired. give it some rest"
+71 - 81 : "oh... monster seems very tired" (starts to fail drills)
+81 - 91 :
+91 - 101+ :

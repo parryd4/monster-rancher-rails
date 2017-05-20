@@ -1,0 +1,1554 @@
+MONSTER RANCHER 2: Combining FAQ
+--------------------------------
+Written by Kurasu Soratobu (kurasufaqs@gmail.com)
+Present version: 1.8
+
+
+INDEX
+-------
+Copyright Info
+Introduction
+Why the Walkthrough/FAQ?
+
+1) ......... Combining Basics
+2) ......... What Dadge Says
+3) ......... Correcting
+4) ......... Tie-breaking
+5) ......... Stat-order
+6) ......... Genetic Engineering
+7) ......... Reverse Engineering
+8) ......... Sub-engineering
+9) ......... Something Wrong Here...
+10) ........ In Conclusion
+11) ........ Monster Baselines
+12) ........ Stat Gains
+
+Update Info
+Still To Come
+Thanks To...
+
+
+COPYRIGHT INFO
+--------------
+Monster Rancher: Combining FAQ, copyright 2006-2012 Kurasu Soratobu. This file
+may not be published in part, or without this Copyright, without explicit
+permission from the author. Monster Rancher and all the monster names are
+rights of Tecmo. Monster Rancher Metropolis and its information are Copyright
+Lisa Shock and Monster Rancher Metropolis. 
+
+If someone wants to post this FAQ to their site, please get in touch with me
+at kurasufaqs@gmail.com and ask. Make certain the words 'Monster Rancher' or
+'FAQ' appear in the title so I recognize it as other-than-junk. Junk will
+always be deleted immediately. 
+
+Any corrections, additions, suggestions, and whatever can be sent to
+kurasufaqs@gmail.com. If you are wanting to speak with me directly, then
+depending on which IM service you use I am AIM: KurasuSoratobu, MSN:
+Kurasu@hotmail.com, Yahoo: kurasu, and @KurasuSoratobu on Twitter. I can't
+promise I'll be uber-chatty, though I'm always willing to answer questions!
+
+
+
+INTRODUCTION
+--------------
+The original Monster Rancher, known as Monster Farm in Japan, was an
+innovative game created by Tecmo where the idea was to raise monsters on a
+ranch. To get these monsters, almost any CD (data CD, game CD, or music CD,
+though the game couldn't read DVD format) could be put into your Playstation
+and, by reading the data on the disk, a monster would be created for you to
+raise. Simple enough, no? Well, not exactly. You, as the breeder, had to
+decide what to feed your monster, what sort of training to put them in, when
+they can go on errantries (essentially a four week training camp), and when to
+finally put them through fights in order to raise their rank. As the trainer,
+you also had the chance to go on expeditions and enter specific tournaments in
+order to open up new and hidden monsters. And once your monsters had finally
+lived a long and productive life, they could be frozen away in order to
+combine with one another, creating stronger and stronger monsters with which
+to continue the legacy. Eventually, the idea was to get your monsters to
+become the next champion of the arena.
+
+In the second game, Monster Rancher 2, they went and did it again; the game
+has the same sort of idea as Monster Rancher 1, but with more of everything.
+More monsters, more foods, more battles, more secrets. This has thrown this
+game into the level of a cult classic, giving people a great amount of
+entertainment for the money value. The replay value is infinite; there are
+simply too many things to strive toward in this game. Certainly the basic idea
+is to get a monster to the Big 4, but there are so many other goals that you
+can reach for. Unlock all the rares. Try to completely max a monster out. See
+if you can get all the monster cards. Master combinations. Or just make a run
+on the final battles again and again and again. 
+
+
+WHY THE WALKTHROUGH/FAQ?
+------------------------
+Combining is one of my favorite parts of Monster Rancher 2. It's an enormous
+challenge to see just what sort of starting stats that I can come up with in a
+combination, and just how good a baby monster I can make. However, combining
+is an extremely complicated subject. Sure, it's easy to put monster 1 and
+monster 2 together for monster 3, but there's an enormous amount of work that
+needs to go into doing it if you want the baby to turn out to be a fantastic
+piece of work.
+
+Certainly, I could have added this entire FAQ as a section in my Walkthrough.
+However, due to the number of entries, the intricacy, the complexity, and the
+sheer detail I'm hoping to offer in it, I thought that giving it its own
+separate FAQ would be the best idea.
+
+
++=+=+=+=+=+=+
++ COMBINING +
++=+=+=+=+=+=+
+
+
+1) COMBINING BASICS
+-------------------
+If you want to take combining down to the most basic level, it's taking one
+Monster Rancher monster and combining it with a second to make a third. This
+third monster, ideally, should have higher stats than either parent did at
+birth, more moves than the average newly-created monster's two, and is
+generally a cross between the two parents' species.
+
+Sounds fairly simple, doesn't it? And at that most basic of levels, it is.
+However, the actual act of combining is a lot more complicated than that. 
+
+Many people will have had this happen: they take what they thought were two
+ideally-raised creatures and put them together, and all the stats come out
+fairly low. Sure, the baby might have several moves, and a small boost on
+stats is better than none, but what in the world happened to those awesome
+numbers that you'd hoped would cross over? Or even when they manage to get
+Dadge to proclaim 'This is a great combo!', and yet when the combination
+happens, the baby pops out not looking much better than your last 'It's all up
+to you.' combo. Or maybe the opposite has happened. The prospect is unsure,
+yet when the two are combined, one stat comes out at an absolutely
+unbelievable level. 
+
+Well, this Combining FAQ will help explain what's going on in the situation,
+as well as giving you some hints for how to create your own perfect
+combinations out of almost any monsters. A process I tend to call 'genetic
+engineering' or just 'engineering', for obvious reasons. 
+
+
+2) WHAT DADGE SAYS
+------------------
+When you bring your monsters in and prepare to combine them, Dadge will always
+make a comment about the combination. Only the order of the statistics is
+taken into account, however; it has nothing to do with the two monsters' types
+or their movelists. If you could somehow get a Monol and a Pixie to have the
+same line of stats, even though they're as different as night and day, they'll
+be considered a 'great' (mind you, this example is an impossibility, but more
+on that later). 
+
+No stats match OR monsters are identical breed: 'This one's all up to you'
+
+One stat matches: 'The prospect is unsure'
+
+Two stats match: 'This combination doesn't look so good, I can't recommend it'
+
+Three stats match: 'The prospect is fine... It will probably work out'
+
+Four stats match: 'The prospect of this combination is good. You can look
+forward to it.'
+
+All six stats match: 'The prospect of this combination is great. It can't go
+wrong unless something weird happens.' 
+
+Now, the best way to get a 'great' combination is to take two of the same (or
+very similar) monster, raise their stats up in the same way, and then combine
+them. The baby you will get out of this combination will often be a 'great'
+combination, and as you might gather from the wording on a 'great'
+combination, the baby will almost always have fairly high stats, if not
+amazingly high ones. However, this isn't always the case. 
+
+Say you wanted to get yourself a Suezo/Pixie, because you thought the Pink Eye
+would look awesome (hey; some people like pink!), and the stats it would gain
+would make it a spectacular creature for your high-int, high-skill style. You
+raised up a Pixie and Suezo in the exact same way, with both of them having
+the exact same following stats: Lif: 350, Pow: 500, Int: 500, Ski: 400,
+Spd: 800, and Def: 300. You bring them in to Dadge. And yet, even though the
+numbers are the _exact_ same, he reports: 'The prospect is unsure.'
+
+Wait a minute, you say. Both Pixie and Suezo are intelligence-skill creatures
+with low life and defense, and yet when the stats are the _exact same_, Dadge
+reports the combination as the second worst of the bunch. What's going on
+here?
+
+This is where a situation comes in that has been termed 'correcting'. It's
+where certain stats are either considered higher or lower than their actual
+on-the-screen number. 
+
+Confused? Read on.
+
+
+3) CORRECTING
+-------------
+The stats you see on the monster's sheet are not the 'precise' numbers that
+the game looks at when it comes down to combination. Rather, they're used as a
+'base', while the numbers get 'corrected' by the monster's stat gains.
+Depending on the level of stat-gain, the monster's numbers are multiplied by a
+specific amount:
+
+1 = 0 (it's multiplied by 0, thus making it 0 no matter what)
+2 = .5 (or, for ease of bookkeeping, divided by 2)
+3 = 1 (the number stays the same)
+4 = 1.5 (the number gets half again added on to it)
+5 = 2 (double the number)
+
+In the set of numbers, 999 is the highest it can go. So if a multiplier would
+push it over 999, assume the number is 999 and no higher. 
+
+So, we take our example creatures once again: Lif: 350, Pow: 500, Int: 500,
+Ski: 400, Spd: 800, Def: 300. Now, let's instead apply those numbers by
+monster, rather than just looking at them in the base. 
+
+Pixie: 1/2/5/4/4/1
+Lif: 350 x 0 = 0
+Pow: 300 x .5 = 150
+Int: 500 x 2 = 999
+Ski: 400 x 1.5 = 600
+Spd: 800 x 1.5 = 999
+Def: 300 x 0 = 0
+
+Suezo: 2/3/5/4/2/2
+Lif: 350 x .5 = 175
+Pow: 300 x 1 = 300
+Int: 500 x 2 = 999
+Ski: 400 x 1.5 = 600
+Spd: 800 x .5 = 400
+Def: 300 x .5 = 150
+
+So as you can see, once correcting's been done with both these monsters, the
+numbers are enormously different. Clearly, they're nowhere near a good
+combination by that.
+
+But wait. There are a few areas where the numbers are exactly the same in the
+pixie's lineup. Lif/Def are both at 0, and Int/Spd are both at 999. So how
+does the game calculate which one is higher? 
+
+This is where the monster's baseline stats come in.
+
+
+4) TIE-BREAKING
+---------------
+Each monster in the game has a specific set of stats that it starts out with.
+They are different for each monster, but for that specific monster-type,
+they're exactly the same every single time. These numbers are then modified by
+bonus numbers from CDs or by bonuses from combining, but if you combine any
+monster down far enough, the stats will eventually show the very bottom-line.
+These stats are called 'baseline'. 
+
+A monster's baseline stats are extremely important in combining for two
+reasons. One reason, I will get into later. For now, though, I'm more focused
+on the first and more immediate reason: breaking ties. If the monster has two
+numbers that are exactly the same (usually because it hit 999 or 0, though
+there's occasional rare times that the number is simply exactly the same after
+being corrected), the baseline stats will tell you in which order the
+monster's stats are to be considered.
+
+Again, let's take our present example: the corrected pixie. Its stats, when
+corrected, are as follows: 0/150/999/600/999/0
+
+A pixie's baseline stats, as you'll be able to see in the chart below, is
+Lif: 50, Pow: 80, Int: 170, Ski: 150, Spd: 140, and Def: 60. From this, we can
+see that Intelligence is higher than Speed, and that Defense is higher than
+Life. So for the monster's stats, we can look at it this way: Lif: 0 (50),
+Pow: 150, Int: 999 (170), Ski: 600, Spd: 999 (140), Def: 0 (60). Which makes
+the order of stats on our pixie a very solid Int, Spd, Ski, Pow, Def, Lif. 
+
+So, what we have is a pair of monsters who line up like this:
+
+Pixie | Suezo
+------+------
+INT   | INT
+SPD   | SKI
+SKI   | POW
+POW   | SPD
+DEF   | LIF
+LIF   | DEF
+
+In other words, they only have one stat which lines up, thus Dadge's
+'uncertain'. The baby will very likely get an excellent intelligence, but the
+rest of the stats aren't going to be anywhere near as good. Such a pity. 
+
+Now. We've decided that we want that pixie to be part of the combination
+because it will give us good stats all the way down the board, and it has more
+moves than the Suezo. So, let's raise us another Suezo to be able to more
+closely-match the Pixie's numbers. Since the Suezo has no gains of 1 in
+anything, we can pretty much force it to match the Pixie's numbers, just as
+long as we're willing to push for stats that might not want to be raised high
+normally. In the end, after some blood, sweat, and tears, we come up with the
+final monster: Lif: 300, Pow: 250, Int: 750, Ski: 300, Spd: 950, Def: 350.
+Although the numbers look nothing like those of the Pixie's, when we apply
+correcting...
+
+Suezo: 2/3/5/4/2/2
+Lif: 300 x .5 = 150
+Pow: 250 x 1 = 250
+Int: 750 x 2 = 999
+Ski: 300 x 1.5 = 450
+Spd: 950 x .5 = 475
+Def: 350 x .5 = 175
+
+... we end up with a monster whose stats are in this order: Int, Spd, Ski,
+Pow, Def, Lif. And if you'll measure that up to the Pixie...
+
+Pixie | Suezo
+------+------
+INT   | INT
+SPD   | SPD
+SKI   | SKI
+POW   | POW
+DEF   | DEF
+LIF   | LIF
+
+... Dadge says 'Great combo'! Congratulations. You've now got a great
+combination.
+
+Now comes the next step, actually putting the two monsters together. Eagerly,
+you watch as lights flash and sparks whirl, and out comes a Suezo/Pixie, just
+like you'd wanted! Eagerly you check its stats...
+
+.... and find out that while Intelligence is indeed high, the rest of the
+monster's statistics aren't all that great. Well, wait a minute, here! Dadge
+said that as long as nothing goes wrong, it should be a great combo.
+Obviously, something went wrong. But what?
+
+Once again, we turn to those baseline stats. Because now, they're going to
+have a completely different use, though a similar one: stat-order.
+
+
+5) STAT-ORDER
+-------------
+When monsters are combined, the parents' numbers are taken and bonuses are
+applied to the baby's baseline numbers. However, those numbers are penalized
+if the parents' stats aren't in line with the baby's baseline stats, or given
+bonuses if they're exactly there. The exact numbers for this aren't known (and
+indeed, randomness has been observed), but the additions you can get are quite
+considerable in some cases, giving the baby stats of 500-600 right off the
+bat!
+
+Basically, the bigger stat-gains are reserved for babies whose baseline stats
+are as similar as possible to the parents. So let's look at the example we've
+got here and find out where our screw up happened.
+
+A Suezo/Pixie's baseline stats are as follows: Lif: 80, Pow: 120, Int: 170,
+Ski: 130, Spd: 100, Def: 90. That puts their order as Int, Ski, Pow, Spd, Def,
+Lif. Compare that to the stat-order of the parents above...
+
+Parent | Baby
+-------+------
+INT    | INT
+SPD    | Ski
+SKI    | POW
+POW    | SPD
+DEF    | DEF
+LIF    | LIF
+
+... and you'll notice that the only place the numbers match up are the very
+first one (there's why your baby has such an incredible intelligence!) and in
+the last two (too far down the chart to give you good bonuses in them; you're
+likely to get only a few points above baseline even if you did have the stats
+to spare). 
+
+Now you're frustrated. You don't want to waste all those great stats on a baby
+whose numbers aren't all that great. You'd rather throw away this Pink Eye and
+try for it again later. So what will you do with the parents instead?
+
+Well, check out what Dadge has in his lineup for the monsters. You'll notice
+that there's a number of creatures in the list rather than just the Pink Eye.
+There's also a Vanity (Pixie/Suezo), a Pixie (Pixie/Pixie), and a Suezo
+(Suezo/Suezo). Going down the chart below, you pick out each of those monsters
+and compare their baseline stats with what you have:
+
+Parent|Pinkeye|Vanity|Suezo|Pixie
+------+-------+------+-----+-----
+INT   | INT   | INT  | INT | INT
+SPD   | Ski   | Ski  | Ski | Ski
+SKI   | POW   | SPD  | POW | SPD
+POW   | SPD   | POW  | DEF | POW
+DEF   | DEF   | DEF  | LIF | DEF
+LIF   | LIF   | LIF  | SPD | LIF
+
+Making comparisons, the one most likely to get good numbers is either the
+Pixie or the Vanity. Unfortunately, due to how high the speed is, there's not
+going to be any way to salvage this 'great' into something really superior.
+You'll have to take the good stats from one of those two combinations and work
+on it from there.
+
+Frustrating, I know. But when it comes to randomly raising numbers, there's
+generally a good chance that you won't be able to get exactly what you want.
+You'll just have to lean toward the 'next best thing'. However, you're set in
+your decision. You're frustrated. You _want_ that Pink Eye and you want it to
+be good. So what do you do?
+
+A little thing I call 'genetic engineering'.
+
+
+6) GENETIC ENGINEERING
+----------------------
+The very first thing you need to know when genetic engineering is what you're
+going for. In this case, we'll continue with our example: you want that darned
+Pink Eye. Check what its baseline stat order is. For the Pink Eye, because of
+our earlier checking, we know that it's got the order of
+Int/Ski/Pow/Spd/Def/Lif. Now that we know this, let's check out the parents'
+stat-gains as well as their baseline stat order. There is a reason for this,
+which I will be pointing out very soon.
+
+Suezo's stat gains are 2/3/5/4/2/2. Baseline stat order is
+Int/Ski/Pow/Def/Lif/Spd. Not the same as the Pink Eye, but that's OK. By
+looking at the stat gain, we'll notice that there isn't a single '1' in the
+bunch. This is very important to engineering, as we'll see very soon.
+
+Pixies' gains are 1/2/5/4/4/1. Notice here that we have two stat gains that
+are at '1'. Because of this, there'll be two stats that are dropped
+automatically to 0, no matter how high we raise them. Because of that, there
+is a danger that we may not be able to get their stats in line with the baby
+at all, depending on what those numbers default to. If the order was Lif/Def,
+for example, then you would never be able to get the order into Def/Lif. The
+numbers would still be good, but there'd be no 'great'. Fortunately, their
+baseline stat order is Int/Ski/Spd/Pow/Def/Lif, though. This means we can
+commence with the engineering.
+
+We'll take the Suezo first, since its stats are closer to the Pink Eye. Now,
+we have to carefully raise all its stats so it stays in exact line with those
+all-important baseline stats. Not horribly hard at first; because of the fact
+that intelligence is #1, we can safely max out intelligence if you want. Skill
+is #2 in both of them, so again: feel free to max out your skill; just make
+certain that it's lower than intelligence at all times (not too hard with the
+correcting 'double' that you'll be getting in intelligence). Likewise with
+Power; make sure it's lower than skill. Of the last three, all you have to do
+is ensure that Speed is higher than Defense, which is higher than Life. 
+
+By the end of it, we'll say we have our Suezo's numbers up to Lif: 300,
+Pow: 550, Int: 900, Ski: 900, Spd: 450, Def: 350. Correcting them:
+
+Lif: 300 x .5 = 150
+Pow: 550 x 1 = 550
+Int: 900 x 2 = 999 (170)
+Ski: 900 x 1.5 = 999 (130)
+Spd: 450 x .5 = 225
+Def: 350 x .5 = 175
+
+... we get an order of Int, Ski, Pow, Spd, Def, Lif. The exact lineup we need
+for our Pink Eye.
+
+Half-way done, now, we pull out the Pixie. Here, things are going to be a
+little more difficult, though. The Pixie's gain of 4 in speed and 2 in power
+means that we're going to have to work all the harder at getting the numbers
+accurate. While we can max out both skill and intelligence as with the Suezo,
+those two will have to be more strictly enforced: make certain that your power
+is always higher, *after* correcting, than what your speed is. Otherwise, the
+correcting will come in and make a hash of things, throwing you right back
+down to 'Not such a good combo'. Keep a calculator on-hand if you need help
+with the numbers. And remember: you can raise your Defense and Life as high as
+you want; because of them correcting to 0, you'll get a great combo even if
+both of them are at 999. In addition, by having high numbers, you can probably
+give the baby a boost here. So if you don't want to spend time raising other
+stats for fear of getting your important numbers out of line, raise defense
+and life all you want.
+
+Let's say that we worked that Pixie into the ground, and now we've got the
+final product: Lif: 300, Pow: 800, Int: 900, Ski: 900, Spd: 250, Def: 350.
+Corrections are applied:
+
+Lif: 300 x 0 = 0 (50)
+Pow: 800 x .5 = 400
+Int: 900 x 2 = 999 (170)
+Ski: 900 x 1.5 = 999 (150)
+Spd: 250 x 1.5 = 375
+Def: 350 x 0 = 0 (60)
+
+... and we have Int, Ski, Pow, Spd, Def, Lif. The combo is a great. And in
+addition, take a look:
+
+Parent | Baby
+-------+------
+INT    | INT
+Ski    | Ski
+POW    | POW
+SPD    | SPD
+DEF    | DEF
+LIF    | LIF
+
+Everything lines up! The stat carryover for this combination will be *much*
+bigger than it would have been if you'd just done the more 'random
+combination'. Congratulations. You've now used genetic engineering to make
+yourself the 'perfect' monster.
+
+There are two other types of engineering that I use. Each of them is slightly
+more complicated than the next. The first one we'll look at is 'reverse
+engineering'. 
+
+
+7) REVERSE ENGINEERING
+----------------------
+Let's say that you still have that one Suezo in your stable. The one that you
+'messed up' while trying to make the original Pink Eye. We'll say you managed
+to get a gold peach with your new Pink Eye, fed it to the Suezo, and therefore
+managed to get some more life out of it. So you decide to take it out and
+raise it up a little more, making a moneymaker out of it. By the end of it
+all, you have a Suezo with the following stats: Lif: 350, Pow: 700, Int: 500,
+Ski: 400, Spd: 800, and Def: 400. Not too bad, you think. But now that I have
+it, what do I do with it? 
+
+Here's where reverse engineering comes in. First thing you do is to take those
+stats and correct them, so you know what you're looking at. In this case,
+we're looking at:
+
+Lif: 350 x .5 = 175
+Pow: 700 x 1 = 700
+Int: 500 x 2 = 999
+Ski: 500 x 1.5 = 750
+Spd: 800 x .5 = 400
+Def: 400 x .5 = 200
+
+Or Int, Ski, Pow, Spd, Def, Lif.
+
+Now that you have that information, take that line of numbers and compare them
+with the other monsters. You'll find that two different monsters match this
+line of numbers: the Pink Eye (Suezo/Pixie) and the Horn (Suezo/Tiger). Since
+we've already raised a Pink Eye, let's go with the assumption that you'd
+rather raise the Horn. 
+
+Now that you have the monster that you want to create, you've already got one
+parent whose stats are perfectly in line to make it. Stick that Suezo away.
+Now, check the chart again. The easiest way to do this would be a Tiger,
+obviously; Suezo+Tiger=Suezo/Tiger, after all. However! Before you shrine that
+Tiger, take a look at its stats:
+
+Gain: 2/2/4/5/4/1
+
+Here, we have a problem. Because of the gain of 1 in defense, defense will
+always be the lowest (0 is lower than anything else, after all). But our final
+monster has *life* as the lowest number. This could go two ways. First off,
+you could simply use the Tiger after all and not worry too much about two
+stats out of alignment: you'll still get superior numbers up in the important
+range. 
+
+However, we're assuming that you want to make a 'great' combination no matter
+what. So let's scan down the list of Tiger/<sub> breeds. Rather than reproduce
+them all here, we'll just assume you're going down the list and... oh, lookie
+here: 
+
+Tiger/Golem: 2/3/4/3/3/3
+
+Here, we have a Tiger cross that not only has it easy to get Life as the
+lowest number, but has average gains pretty much down the line, making it
+fairly easy to balance out the other stats as needed. This'll be ideal for our
+use as a combiner. Just remember to check the baseline stats, so you know
+where to avoid maxing the monster out:
+
+Tiger/Golem: Lif: 80, Pow: 100, Int: 140, Ski: 110, Spd: 130, Def: 120
+
+... or Int, Spd, Def, Ski, Pow, Lif.
+
+So, if you want to raise the Tiger/Golem completely in line with this Suezo,
+then maxing out Intelligence, Skill, and Power are alright. The rest, keep
+lower than those three, and keep them in order where you can. 
+
+So we'll say after a lot of work, you've got the following: Lif: 800,
+Pow: 950, Int: 950, Ski: 999, Spd: 650, Def: 450. We correct...
+
+Lif: 800 x .5 = 400
+Pow: 950 x 1 = 950
+Int: 950 x 1.5 = 999 (140)
+Ski: 999 x 1 = 999 (110)
+Spd: 650 x 1 = 650
+Def: 450 x 1 = 450
+
+.... or Int, Ski, Pow, Spd, Def, Lif. 
+
+Taking those to Dadge, the combination will be a 'great'! And if you'll take a
+look here...
+
+Parent | Baby
+-------+------
+INT    | INT
+Ski    | Ski
+POW    | POW
+SPD    | SPD
+DEF    | DEF
+LIF    | LIF
+
+... the stat carryover, once more, will be considerable.
+
+
+8) SUB-ENGINEERING
+------------------
+Every now and then, there is a monster that it seems absolutely impossible to
+be able to engineer a 'great' combo for. Generally this is because it has
+stats that don't line up with any other monster, you just plain haven't got
+the monster that would be needed for the perfect engineering, or that every
+other monster in line with it are so far off the number that it's impossible
+to create. This can also occur if you're trying to make a 'great' combo off a
+monster you already have (reverse engineering), and the only monsters you find
+aren't even remotely like what you have created. For these occasions, I do
+what I tend to call 'sub engineering'. 
+
+Let's take a fairly extreme example: you want to engineer a Dragon/Kato for
+that awesome 'feline dragon' look they have. Dragon/Katos have a baseline of
+Lif: 100, Pow: 140, Int: 160, Ski: 120, Spd: 130, and Defense: 110. In other
+words: Int, Pow, Spd, Ski, Def, Lif. So of course, you turn to the listings to
+examine the base numbers of the two most obvious parents:
+
+Dragon/Dragon: 3/5/5/3/2/3
+Kato/Kato: 2/1/5/3/5/2
+
+Uh oh. Already, there's an obvious problem. Dragons get gains of '5' in power,
+where Katos have a '1'. Plus, that 1 in power means that we're not going to be
+able to get the numbers properly balanced. Obviously, there's no way that a
+great combination could be made with these two creatures in mind.
+
+.... or can it?
+
+When the monsters are this far apart, just raising them directly from the
+primary monster type can be difficult, if not impossible. So instead of that,
+let's start looking at the various monsters with a Dragon or a Kato *sub* to
+them. 
+
+First off, let's take a look at the Dragon/Kato's baselines: Int, Power,
+Speed, Skill, Defense, Life. So we do some comparisons of that. There's
+nothing that matches up with that exactly, so we'll have to lean toward stat
+gains to be able to engineer the parents to match up. However, there's that
+pesky need for high speed as well as the high power: something that dragons
+don't get. Likewise, Katos don't get good gains in power no matter what
+they've got crossed with them, aside from Dragon (and we're assuming you don't
+have that available, for obvious reasons). 
+
+First off, for our Dragon side, let's select a Mocchi/Dragon. They have many
+good gains in stats, and, most importantly, they've got an average gain in
+speed, thus leaving the ability to raise speed fairly high without crippling
+it. Raise this the same way you would any engineered monster: keep its stats
+in line with what the baby's baseline stats will end up being. Thanks to the
+Mocchi gains, this won't be too difficult.
+
+For the Kato, things will be more difficult: you need to find something that
+raises power quite well to be able to keep up. Again, none of the Kato
+primary-breeds do well in power, so we'll instead take a look at the various
+subs. For this, we'll consider the Baku/Kato to be one of the best choices:
+its skill is a little lower than what's comfortable, but with some hard
+number-raising, it's certainly within the realm of the 'possible'. 
+
+Obviously, getting the combination out of the smaller percentage is a lot more
+difficult when you do it this way. However, keep resetting and you'll
+eventually get the one that you'd been looking for. 
+
+Engineering subs can also be extremely useful if you haven't got a particular
+'primary type' available for combination. Say you wanted to try and raise a
+full-blooded Joker, but you didn't have any CDs that gave one at all. On the
+other hand, you've got plenty of Selketo (Arrowhead/Joker), as many people
+tend to have. Take two of those Selketo, engineer their stats to be in line
+with the Joker, and then combine them down to get yourself a pure Joker with
+excellent stats *and* really good starting moves. Another suggestion is, if
+you don't mind an even smaller chance of getting what you want, make the
+second monster in a breeding not even remotely related to it, but with stats
+that are closer to being in-line. For example, combine your well-raised
+Selketo with a Gali whose nearly-maxed stats are perfectly in-line for a
+Joker. It'll take a long while to get your pure (even with disk chips) but the
+stats will be worth it.
+
+
+9) SOMETHING WRONG HERE...
+--------------------------
+So you followed the FAQ exactly, you got your monsters perfectly balanced, you
+brought them to Dadge... and yet when it's all said and done, you still aren't
+getting that 'Great' combination. Everything checks out, and yet something's
+just not working? Is this FAQ stupid and useless? Are you just faking us
+around, Kura?
+
+In short, no. But there are still a few things at work that I (and no doubt
+others) are working to figure out!
+
+In long: a recent report by 'americanmimeboy' mentions that in at least a
+couple cases, a monster's stats have deferred after correcting toward the
+*raised* stats, rather than the *baseline* stats. After testing with a memory
+card which was sent to me, I discovered to my shock and horror that this was,
+indeed, the case: a tiger's corrected stats seemed to be 'preferring'
+Intelligence over Speed, simply because the raised Intelligence was higher.
+Lowering Intelligence or raising Speed immediately shifted it back to a
+'Great'.
+
+What this means is that there's still some strangeness at work, here. It may be
+as simple as 'stats really *do* defer to the before-correction order', or as
+complicated as.... well... something that's really complicated. Due to the fact
+it'll take a lot of monsters and a lot of raising to test this (I have no
+knowledge of hex code, so I have to do all my experiments manually), it'll be
+some time before I can get a hypothesis on this for certain. However, it is
+clear to say that if you have made a combination, and something didn't turn out
+even after the calculations here suggested it should? Then please feel free to
+mail about it! Keep on hand the monsters that you have, the stats that they
+have, and if you are emulating, a copy of your memory card for me to take a
+look at potentially. Hopefully, this little puzzle can be figured out and the
+last piece (or two) of the big combining puzzle can be slotted into place!
+
+Until that moment: if all calculations say that it should be a 'Great' combo,
+and instead turns into a 'Good', see if you can't raise one of the offending
+two corrected stats, or lower the other. See if that might correct it properly
+to a 'Great'. If it does, let me know *that*, too!
+
+Does this mean the rest of the FAQ is useless? Certainly not. The fact it took
+this long for the issue to crop up to me suggests that it's not something that
+is overly common to happen. And having been combining for over a year in the
+past, with no issues, I'm willing to say that aside from the occasional 'blip',
+the above combination calculations (and the below numbers) are still plenty to
+get you well on your way while the last of the puzzle(s) is being figured out. 
+
+
+10) IN CONCLUSION
+----------------
+As you can see, combining can certainly be a lot more complicated than simply
+putting two monsters together and hoping they'll come out well (although
+that's certainly a choice as well, for the purists). I can only hope the
+information featured here will let you make monsters as good as you'd always
+hoped you could make in combination.
+
+Anyhow, here's the charts for the various monsters, both their baseline stats
+and their stat-raising. Obviously this is necessary for knowing the
+information on how they go: see the above for why.
+
+
+11) MONSTER BASELINES
+---------------------
+
+Monster                    | LIF | POW | INT | SKI | SPD | DEF | Order        
+---------------------------+-----+-----+-----+-----+-----+-----+--------------
+Ape/Ape                    | 150 | 160 | 20  | 120 | 100 | 140 | P L D Sk Sp I
+Ape/Gali                   | 120 | 140 | 110 | 100 | 90  | 130 | P D L I Sk Sp
+Ape/Golem                  | 150 | 160 | 70  | 100 | 90  | 140 | P L D Sk Sp I
+Ape/Hare                   | 160 | 140 | 60  | 110 | 150 | 120 | L Sp P D Sk I
+Ape/Plant                  | 140 | 120 | 90  | 110 | 100 | 130 | L D P Sk Sp I
+Arrowhead/Arrowhead        | 120 | 80  | 70  | 30  | 40  | 170 | D L P I Sp Sk
+Arrowhead/Durahan          | 130 | 120 | 80  | 110 | 100 | 170 | D L P Sk Sp I
+Arrowhead/Golem            | 120 | 150 | 70  | 50  | 60  | 190 | D P L I Sp Sk
+Arrowhead/Henger           | 120 | 100 | 60  | 110 | 90  | 130 | D L Sk P Sp I
+Arrowhead/Joker            | 100 | 110 | 120 | 140 | 70  | 150 | D Sk I P L Sp
+Arrowhead/Mock             | 90  | 110 | 130 | 100 | 60  | 150 | D I P Sk L Sp
+Arrowhead/Suezo            | 100 | 120 | 130 | 110 | 70  | 140 | D I P Sk L Sp
+Bajarl/Bajarl              | 100 | 130 | 90  | 120 | 110 | 80  | P Sk Sp L I D
+Bajarl/Joker               | 100 | 150 | 120 | 140 | 110 | 90  | P Sk I Sp L D
+Baku/Baku                  | 180 | 130 | 50  | 70  | 60  | 150 | L D P Sk Sp I
+Baku/Dragon                | 150 | 130 | 100 | 80  | 60  | 120 | L P D I Sk Sp
+Baku/Durahan               | 150 | 140 | 70  | 80  | 50  | 160 | D L P I Sk Sp
+Baku/Golem                 | 160 | 130 | 70  | 90  | 60  | 150 | L D P Sk I Sp
+Baku/Hare                  | 150 | 130 | 50  | 90  | 100 | 80  | L P Sp Sk D I
+Baku/Jell                  | 150 | 120 | 90  | 100 | 70  | 130 | L D P Sk I Sp
+Baku/Joker                 | 160 | 140 | 100 | 110 | 70  | 120 | L P D Sk I Sp
+Baku/Kato                  | 160 | 110 | 120 | 70  | 100 | 130 | L D I P Sp Sk
+Baku/Tiger                 | 150 | 120 | 50  | 100 | 70  | 90  | L P Sk D Sp I
+Beaclon/Bajarl             | 120 | 150 | 50  | 100 | 90  | 110 | P L D Sk Sp I
+Beaclon/Beaclon            | 120 | 150 | 50  | 70  | 90  | 140 | P D L Sp Sk I
+Beaclon/Dragon             | 120 | 150 | 110 | 70  | 90  | 140 | P D L I Sp Sk
+Beaclon/Ducken             | 90  | 150 | 70  | 100 | 120 | 110 | P Sp D Sk L I
+Beaclon/Durahan            | 120 | 150 | 80  | 70  | 90  | 140 | P D L Sp I Sk
+Beaclon/Golem              | 120 | 150 | 80  | 70  | 90  | 140 | P D L Sp I Sk
+Beaclon/Henger             | 100 | 150 | 80  | 110 | 120 | 130 | P D Sp Sk L I
+Beaclon/Joker              | 120 | 150 | 130 | 100 | 90  | 110 | P I L D Sk Sp
+Beaclon/Tiger              | 100 | 110 | 70  | 130 | 90  | 120 | Sk D P L Sp I
+Centaur/Arrowhead          | 90  | 100 | 110 | 140 | 150 | 120 | Sp Sk D I P L
+Centaur/Bajarl             | 90  | 100 | 110 | 160 | 150 | 80  | Sk Sp I P L D
+Centaur/Centaur            | 90  | 100 | 140 | 160 | 150 | 80  | Sk Sp I P L D
+Centaur/Dragon             | 90  | 130 | 140 | 120 | 150 | 80  | Sp I P Sk L D
+Centaur/Durahan            | 90  | 100 | 140 | 130 | 150 | 120 | Sp I Sk D P L
+Centaur/Golem              | 90  | 130 | 140 | 100 | 150 | 110 | Sp I P D Sk L
+Centaur/Joker              | 90  | 100 | 140 | 160 | 150 | 80  | Sk Sp I P L D
+Centaur/Pixie              | 70  | 100 | 140 | 160 | 110 | 80  | Sk I Sp P D L
+Centaur/Tiger              | 90  | 100 | 140 | 160 | 170 | 80  | Sp Sk I P L D
+Colorpandora/Colorpandora  | 170 | 50  | 30  | 100 | 110 | 60  | L Sp Sk D P I
+Colorpandora/Jell          | 130 | 50  | 80  | 100 | 110 | 90  | L Sp Sk D I P
+Colorpandora/Pixie         | 90  | 40  | 120 | 100 | 110 | 30  | I Sp Sk L P D
+Dragon/Arrowhead           | 100 | 150 | 140 | 120 | 90  | 130 | P I D Sk L Sp
+Dragon/Bajarl              | 100 | 170 | 130 | 120 | 90  | 110 | P I Sk D L Sp
+Dragon/Beaclon             | 100 | 170 | 130 | 120 | 90  | 110 | P I Sk D L Sp
+Dragon/Dragon              | 100 | 170 | 160 | 120 | 90  | 110 | P I Sk D L Sp
+Dragon/Durahan             | 100 | 170 | 140 | 120 | 90  | 130 | P I D Sk L Sp
+Dragon/Gali                | 100 | 130 | 160 | 120 | 90  | 110 | I P Sk D L Sp
+Dragon/Golem               | 100 | 170 | 140 | 80  | 90  | 130 | P I D L Sp Sk
+Dragon/Henger              | 100 | 170 | 140 | 120 | 130 | 110 | P I Sp Sk D L 
+Dragon/Joker               | 100 | 130 | 160 | 140 | 90  | 110 | I Sk P D L Sp
+Dragon/Kato                | 100 | 140 | 160 | 120 | 130 | 110 | I P Sp Sk D L
+Dragon/Metalner            | 70  | 100 | 110 | 140 | 90  | 150 | D Sk I P Sp L
+Dragon/Monol               | 100 | 150 | 140 | 120 | 90  | 130 | P I D Sk L Sp
+Dragon/Pixie               | 80  | 130 | 170 | 120 | 100 | 110 | I P Sk D Sp L
+Dragon/Tiger               | 100 | 140 | 160 | 130 | 90  | 80  | I P Sk L Sp D
+Dragon/??? (Moo; DNA Cap)  | 100 | 170 | 160 | 120 | 90  | 110 | P I Sk D L Sp
+Ducken/Ducken              | 70  | 80  | 130 | 140 | 100 | 50  | Sk I Sp P L D
+Ducken/Golem               | 70  | 150 | 120 | 130 | 100 | 110 | P Sk I D Sp L
+Ducken/Suezo               | 80  | 100 | 130 | 150 | 140 | 50  | Sk Sp I P L D
+Durahan/Arrowhead          | 120 | 140 | 90  | 110 | 50  | 160 | D P L Sk I Sp
+Durahan/Beaclon            | 100 | 150 | 80  | 110 | 30  | 180 | D P Sk L I Sp
+Durahan/Dragon             | 100 | 130 | 150 | 110 | 70  | 140 | I D P Sk L Sp
+Durahan/Durahan            | 100 | 150 | 80  | 110 | 70  | 180 | D P Sk L I Sp
+Durahan/Golem              | 120 | 150 | 100 | 90  | 60  | 170 | D P L I Sk Sp
+Durahan/Joker              | 100 | 120 | 150 | 140 | 80  | 130 | I Sk D P L Sp
+Durahan/Metalner           | 90  | 120 | 80  | 140 | 70  | 160 | D Sk P L I Sp
+Durahan/Mock               | 90  | 120 | 130 | 110 | 70  | 150 | D I P Sk L Sp
+Durahan/Phoenix            | 100 | 120 | 130 | 110 | 90  | 150 | D I P Sk L Sp
+Durahan/Pixie              | 90  | 110 | 150 | 130 | 100 | 120 | I Sk D P Sp L
+Durahan/Tiger              | 130 | 110 | 120 | 140 | 90  | 100 | Sk L I P D Sp
+Gaboo/Gaboo                | 190 | 120 | 30  | 40  | 150 | 70  | L Sp P D Sk I
+Gaboo/Jell                 | 140 | 130 | 80  | 70  | 120 | 90  | L P Sp D I Sk
+Gaboo/Joker                | 150 | 140 | 130 | 110 | 100 | 40  | L P I Sk Sp D
+Gaboo/Tiger                | 160 | 120 | 60  | 100 | 150 | 50  | L Sp P Sk I D
+Gali/Gali                  | 110 | 130 | 160 | 120 | 90  | 100 | I P Sk L D Sp
+Gali/Golem                 | 90  | 160 | 120 | 110 | 100 | 150 | P D I Sk Sp L
+Gali/Hare                  | 100 | 150 | 110 | 130 | 120 | 90  | P Sk Sp I L D
+Gali/Jell                  | 90  | 120 | 150 | 110 | 80  | 100 | I P Sk D L Sp
+Gali/Monol                 | 90  | 110 | 130 | 120 | 100 | 140 | D I Sk P Sp L
+Gali/Naga                  | 90  | 130 | 140 | 120 | 100 | 110 | I P Sk D Sp L
+Gali/Pixie                 | 100 | 130 | 170 | 120 | 110 | 90  | I P Sk Sp L D
+Gali/Plant                 | 110 | 100 | 140 | 120 | 80  | 90  | I Sk L P D Sp
+Gali/Suezo                 | 90  | 130 | 160 | 120 | 100 | 110 | I P Sk D Sp L
+Gali/Tiger                 | 90  | 120 | 160 | 130 | 110 | 100 | I Sk P Sp D L
+Gali/Worm                  | 100 | 110 | 140 | 120 | 80  | 90  | I Sk P L D Sp
+Gali/Zuum *                | 100 | 130 | 140 | 110 | 90  | 100 | I P Sk L D Sp
+Ghost/Ghost                | 100 | 90  | 120 | 140 | 150 | 80  | Sp Sk I L P D
+Golem/Arrowhead            | 120 | 150 | 110 | 80  | 40  | 200 | D P L I Sk Sp
+Golem/Bajarl               | 110 | 160 | 120 | 90  | 70  | 130 | P D I L Sk Sp
+Golem/Baku                 | 140 | 210 | 70  | 50  | 40  | 150 | P D L I Sk Sp
+Golem/Beaclon              | 110 | 180 | 100 | 70  | 60  | 160 | P D L I Sk Sp
+Golem/Dragon               | 100 | 220 | 130 | 90  | 60  | 150 | P D I L Sk Sp
+Golem/Durahan              | 110 | 200 | 100 | 80  | 60  | 180 | P D L I Sk Sp
+Golem/Gali                 | 100 | 150 | 110 | 60  | 50  | 130 | P D I L Sk Sp
+Golem/Golem                | 100 | 220 | 110 | 70  | 60  | 160 | P D I L Sk Sp
+Golem/Hare                 | 100 | 160 | 110 | 70  | 130 | 120 | P Sp D I L Sk
+Golem/Henger               | 100 | 170 | 120 | 80  | 60  | 140 | P D I L Sk Sp
+Golem/Jell                 | 120 | 160 | 100 | 70  | 50  | 220 | D P L I Sk Sp
+Golem/Joker                | 100 | 130 | 140 | 110 | 60  | 150 | D I P Sk L Sp
+Golem/Metalner             | 90  | 110 | 100 | 120 | 30  | 200 | D Sk P I L Sp
+Golem/Mock                 | 110 | 140 | 150 | 50  | 60  | 160 | D I P L Sp Sk
+Golem/Monol                | 130 | 140 | 110 | 40  | 60  | 170 | D P L I Sp Sk
+Golem/Naga                 | 120 | 190 | 60  | 70  | 50  | 150 | P D L Sk I Sp
+Golem/Pixie                | 90  | 150 | 140 | 80  | 70  | 120 | P I D L Sk Sp
+Golem/Plant                | 140 | 100 | 110 | 90  | 60  | 130 | L D I P Sk Sp
+Golem/Suezo                | 110 | 130 | 140 | 70  | 60  | 150 | D I P L Sk Sp
+Golem/Tiger                | 120 | 140 | 110 | 130 | 70  | 100 | P Sk L I D Sp
+Golem/Worm                 | 150 | 160 | 110 | 90  | 20  | 130 | P L D I Sk Sp
+Golem/Wracky               | 90  | 130 | 100 | 60  | 70  | 120 | P D I L Sp Sk
+Golem/Zilla                | 110 | 150 | 140 | 80  | 60  | 160 | D P I L Sk Sp
+Golem/Zuum                 | 100 | 140 | 110 | 70  | 90  | 130 | P D I L Sp Sk
+Golem/??? (ForwardGolem)   | 100 | 220 | 110 | 70  | 60  | 160 | P D I L Sk Sp
+Hare/Gali                  | 100 | 130 | 90  | 110 | 140 | 50  | Sp P Sk L I D
+Hare/Golem                 | 100 | 170 | 80  | 90  | 110 | 120 | P D Sp L Sk I
+Hare/Hare                  | 50  | 130 | 70  | 100 | 140 | 40  | Sp P Sk I L D
+Hare/Jell                  | 100 | 140 | 60  | 110 | 130 | 90  | P Sp Sk L D I
+Hare/Monol                 | 100 | 140 | 90  | 120 | 130 | 110 | P Sp Sk D L I
+Hare/Naga                  | 110 | 160 | 70  | 120 | 140 | 100 | P Sp Sk L D I
+Hare/Pixie                 | 80  | 130 | 100 | 120 | 180 | 50  | Sp P Sk I L D
+Hare/Plant                 | 120 | 110 | 90  | 100 | 140 | 70  | Sp L P Sk I D
+Hare/Suezo                 | 90  | 140 | 100 | 110 | 130 | 70  | P Sp Sk I L D
+Hare/Tiger                 | 100 | 130 | 70  | 160 | 170 | 40  | Sp Sk P L I D
+Hare/Worm                  | 120 | 140 | 90  | 100 | 110 | 70  | P L Sp Sk I D
+Hare/Zuum                  | 100 | 130 | 70  | 110 | 140 | 80  | Sp P Sk L D I
+Henger/Dragon              | 90  | 140 | 130 | 150 | 110 | 80  | Sk P I Sp L D
+Henger/Golem               | 90  | 150 | 120 | 110 | 100 | 80  | P I Sk Sp L D
+Henger/Henger              | 100 | 150 | 110 | 160 | 170 | 90  | Sp Sk P I L D
+Henger/Joker               | 90  | 140 | 130 | 150 | 120 | 80  | Sk P I Sp L D
+Henger/Metalner            | 80  | 110 | 90  | 150 | 120 | 100 | Sk Sp P D I L
+Henger/Mock                | 90  | 100 | 150 | 110 | 120 | 80  | I Sp Sk P L D
+Henger/Monol               | 90  | 150 | 100 | 120 | 130 | 110 | P Sp Sk D I L
+Henger/Zuum                | 90  | 130 | 110 | 140 | 150 | 80  | Sp Sk P I D L
+Hopper/Bajarl              | 60  | 100 | 110 | 170 | 120 | 50  | Sk Sp I P L D
+Hopper/Dragon              | 70  | 100 | 140 | 160 | 120 | 90  | Sk I Sp P D L
+Hopper/Hopper              | 60  | 100 | 110 | 160 | 150 | 70  | Sk Sp I P D L
+Hopper/Jill                | 70  | 100 | 110 | 150 | 130 | 60  | Sk Sp I P L D
+Hopper/Joker *             | 70  | 90  | 110 | 160 | 110 | 60  | Sk I Sp P D L
+Hopper/Kato                | 70  | 80  | 130 | 150 | 140 | 50  | Sk Sp I P L D
+Hopper/Metalner            | 70  | 80  | 90  | 160 | 100 | 110 | Sk D Sp I P L
+Hopper/Mocchi              | 60  | 100 | 110 | 160 | 120 | 70  | Sk Sp I P D L
+Hopper/Mock *              | 90  | 90  | 150 | 140 | 110 | 70  | I Sk Sp P L D
+Hopper/Pixie               | 70  | 90  | 160 | 170 | 130 | 60  | Sk I Sp P L D
+Hopper/Suezo               | 60  | 90  | 140 | 160 | 110 | 40  | Sk I Sp P L D
+Hopper/Tiger *             | 60  | 90  | 110 | 180 | 130 | 60  | Sk Sp I P D L
+Jell/Gali                  | 90  | 80  | 140 | 110 | 100 | 150 | D I Sk Sp L P
+Jell/Golem                 | 100 | 110 | 130 | 120 | 90  | 140 | D I Sk P L Sp
+Jell/Hare                  | 100 | 110 | 130 | 150 | 120 | 140 | Sk D I Sp P L
+Jell/Jell                  | 100 | 90  | 130 | 120 | 110 | 140 | D I Sk Sp L P
+Jell/Monol                 | 100 | 90  | 130 | 120 | 80  | 150 | D I Sk L P Sp
+Jell/Naga                  | 90  | 100 | 130 | 120 | 110 | 140 | D I Sk Sp P L
+Jell/Pixie                 | 80  | 90  | 150 | 160 | 100 | 110 | Sk I D Sp P L
+Jell/Plant                 | 120 | 80  | 150 | 140 | 90  | 110 | I Sk L D Sp P
+Jell/Suezo                 | 100 | 90  | 150 | 130 | 80  | 120 | I Sk D L P Sp
+Jell/Tiger                 | 90  | 100 | 150 | 140 | 110 | 120 | I Sk D Sp P L
+Jell/Worm                  | 110 | 90  | 140 | 130 | 100 | 120 | I Sk D L Sp P
+Jell/Zuum                  | 100 | 80  | 120 | 140 | 110 | 150 | D Sk I Sp L P
+Jill/Hare                  | 130 | 140 | 110 | 100 | 120 | 90  | P L Sp I Sk D
+Jill/Jill                  | 140 | 160 | 150 | 110 | 100 | 130 | P I L D Sk Sp
+Jill/Joker                 | 110 | 160 | 150 | 130 | 100 | 120 | P I Sk D L Sp
+Jill/Kato                  | 110 | 130 | 150 | 90  | 100 | 120 | I P D L Sp Sk
+Jill/Pixie                 | 90  | 130 | 150 | 120 | 110 | 100 | I P Sk Sp D L
+Jill/Suezo                 | 130 | 150 | 140 | 110 | 80  | 100 | P I L Sk D Sp
+Jill/Tiger                 | 120 | 130 | 150 | 110 | 100 | 90  | I P L Sk Sp D
+Joker/Bajarl               | 110 | 120 | 160 | 200 | 90  | 100 | Sk I P L D Sp
+Joker/Dragon               | 120 | 140 | 190 | 160 | 100 | 90  | I Sk P L Sp D
+Joker/Golem                | 120 | 140 | 150 | 130 | 100 | 90  | I P Sk L Sp D
+Joker/Joker                | 120 | 110 | 200 | 190 | 100 | 90  | I Sk L P Sp D
+Joker/Pixie                | 100 | 110 | 190 | 200 | 120 | 90  | Sk I Sp P L D
+Joker/Tiger *              | 110 | 100 | 190 | 190 | 110 | 90  | I Sk Sp L P D
+Kato/Dragon *              | 80  | 120 | 160 | 120 | 150 | 100 | I Sp Sk P D L
+Kato/Gali                  | 80  | 70  | 170 | 120 | 140 | 90  | I Sp Sk D L P
+Kato/Joker                 | 80  | 70  | 140 | 110 | 170 | 100 | Sp I Sk D L P
+Kato/Kato                  | 70  | 60  | 170 | 140 | 160 | 100 | I Sp Sk D L P
+Kato/Mocchi                | 70  | 80  | 170 | 140 | 150 | 90  | I Sp Sk D P L
+Kato/Suezo                 | 70  | 80  | 140 | 120 | 170 | 130 | Sp I D Sk P L
+Kato/Tiger                 | 70  | 60  | 170 | 140 | 160 | 100 | I Sp Sk D L P
+Metalner/Metalner          | 50  | 20  | 10  | 160 | 30  | 170 | D Sk L Sp P I
+Metalner/Pixie             | 60  | 50  | 100 | 160 | 80  | 110 | Sk D I Sp L P
+Metalner/Suezo             | 70  | 90  | 100 | 170 | 60  | 160 | Sk D I P L Sp
+Mew/Hare                   | 130 | 100 | 80  | 140 | 150 | 90  | Sp Sk L P D I
+Mew/Jell                   | 130 | 80  | 100 | 140 | 110 | 90  | Sk L Sp I D P
+Mew/Mew                    | 130 | 80  | 70  | 120 | 140 | 90  | Sp L Sk D P I
+Mew/Pixie                  | 110 | 80  | 100 | 130 | 140 | 90  | Sp Sk L I D P
+Mew/Tiger                  | 100 | 80  | 120 | 130 | 140 | 90  | Sp Sk I L D P
+Mocchi/Dragon              | 100 | 110 | 140 | 150 | 120 | 160 | D Sk I Sp P L
+Mocchi/Durahan             | 100 | 110 | 120 | 150 | 130 | 140 | Sk D Sp I P L
+Mocchi/Jell                | 110 | 100 | 130 | 140 | 120 | 150 | D Sk I Sp L P
+Mocchi/Joker *             | 100 | 110 | 140 | 150 | 130 | 110 | Sk I Sp D P L
+Mocchi/Kato                | 100 | 80  | 150 | 140 | 130 | 120 | I Sk Sp D L P
+Mocchi/Mocchi              | 110 | 100 | 120 | 140 | 150 | 130 | Sp Sk D I L P
+Mocchi/Pixie               | 100 | 110 | 120 | 140 | 150 | 130 | Sp Sk D I P L
+Mocchi/Tiger               | 110 | 100 | 120 | 140 | 150 | 130 | Sp Sk D I L P
+Mocchi/??? (Gentlemocchi)  | 110 | 100 | 120 | 140 | 150 | 130 | Sp Sk D I L P
+Mocchi/??? (White Mocchi)  | 110 | 100 | 120 | 140 | 150 | 130 | Sp Sk D I L P
+Mock/Joker                 | 200 | 80  | 170 | 120 | 90  | 60  | L I Sk Sp P D
+Mock/Mock                  | 200 | 70  | 140 | 50  | 60  | 40  | L I P Sp Sk D
+Monol/Gali                 | 90  | 110 | 130 | 100 | 30  | 150 | D I P Sk L Sp
+Monol/Golem                | 90  | 130 | 120 | 100 | 10  | 200 | D P I Sk L Sp
+Monol/Hare                 | 80  | 140 | 100 | 90  | 110 | 120 | P D Sp I Sk L
+Monol/Jell                 | 80  | 110 | 120 | 100 | 40  | 220 | D I P Sk L Sp
+Monol/Monol                | 110 | 130 | 140 | 100 | 10  | 220 | D I P L Sk Sp
+Monol/Naga                 | 90  | 120 | 100 | 130 | 60  | 160 | D Sk P I L Sp
+Monol/Plant                | 110 | 100 | 130 | 90  | 40  | 120 | I D L P Sk Sp
+Monol/Pixie                | 90  | 130 | 150 | 100 | 50  | 120 | I P D Sk L Sp
+Monol/Suezo                | 100 | 110 | 150 | 120 | 60  | 140 | I D Sk P L Sp
+Monol/Tiger *              | 100 | 110 | 120 | 100 | 40  | 130 | D I P L Sk Sp
+Monol/Worm                 | 100 | 120 | 130 | 90  | 50  | 160 | D I P L Sk Sp
+Monol/Zuum                 | 90  | 110 | 120 | 100 | 30  | 150 | D I P Sk L Sp
+Naga/Gali                  | 120 | 150 | 100 | 140 | 70  | 130 | P Sk D L I Sp
+Naga/Golem                 | 130 | 150 | 100 | 120 | 90  | 140 | P D L Sk I Sp
+Naga/Hare                  | 130 | 160 | 90  | 150 | 120 | 100 | P Sk L Sp D I
+Naga/Jell                  | 110 | 120 | 90  | 150 | 100 | 130 | Sk D P L Sp I
+Naga/Monol                 | 120 | 140 | 90  | 110 | 100 | 150 | D P L Sk Sp I
+Naga/Naga                  | 120 | 160 | 100 | 150 | 110 | 130 | P Sk D L Sp I
+Naga/Pixie                 | 100 | 130 | 110 | 140 | 120 | 90  | Sk P Sp I L D
+Naga/Plant                 | 160 | 120 | 100 | 150 | 90  | 70  | L Sk P I Sp D
+Naga/Suezo                 | 120 | 140 | 110 | 130 | 80  | 100 | P Sk L I D Sp
+Naga/Tiger                 | 120 | 130 | 80  | 160 | 110 | 100 | Sk P L Sp D I
+Naga/Worm                  | 120 | 130 | 70  | 150 | 90  | 110 | Sk P L D Sp I
+Naga/Zuum                  | 110 | 150 | 60  | 140 | 100 | 120 | P Sk D L Sp I
+Niton/Bajarl               | 80  | 120 | 60  | 130 | 90  | 110 | Sk P D Sp L I
+Niton/Durahan              | 90  | 130 | 80  | 70  | 140 | 100 | Sp P D L I Sk
+Niton/Golem                | 100 | 120 | 50  | 60  | 140 | 80  | Sp P L D Sk I
+Niton/Jell                 | 70  | 60  | 120 | 110 | 90  | 140 | D I Sk Sp L P
+Niton/Kato                 | 90  | 60  | 110 | 80  | 120 | 130 | D Sp I Sk L P
+Niton/Metalner             | 80  | 50  | 90  | 120 | 70  | 150 | D Sk I L Sp P
+Niton/Mock                 | 80  | 60  | 120 | 70  | 40  | 130 | D I L Sk P Sp
+Niton/Niton                | 90  | 40  | 30  | 70  | 50  | 160 | D L Sk Sp P I
+Phoenix/Phoenix            | 170 | 150 | 190 | 140 | 160 | 110 | I L Sp P Sk D
+Pixie/Bajarl               | 70  | 110 | 130 | 150 | 140 | 60  | Sk Sp I P L D
+Pixie/Centaur              | 70  | 80  | 170 | 150 | 100 | 60  | I Sk Sp P L D
+Pixie/Dragon               | 90  | 110 | 190 | 140 | 120 | 80  | I Sk Sp P L D
+Pixie/Durahan              | 80  | 110 | 140 | 150 | 100 | 130 | Sk I D P Sp L
+Pixie/Gali                 | 50  | 80  | 170 | 150 | 110 | 60  | I Sk Sp P D L
+Pixie/Golem                | 80  | 110 | 150 | 120 | 100 | 130 | I D Sk P Sp L
+Pixie/Hare                 | 70  | 100 | 110 | 150 | 140 | 60  | Sk Sp I P L D
+Pixie/Jell                 | 50  | 80  | 170 | 150 | 110 | 60  | I Sk Sp P D L
+Pixie/Jill                 | 70  | 110 | 170 | 100 | 120 | 80  | I Sp P Sk D L
+Pixie/Joker                | 70  | 80  | 170 | 150 | 110 | 60  | I Sk Sp P L D
+Pixie/Kato                 | 50  | 80  | 170 | 150 | 140 | 60  | I Sk Sp P D L
+Pixie/Metalner             | 50  | 80  | 100 | 150 | 110 | 130 | Sk D Sp I P L
+Pixie/Mock                 | 150 | 80  | 170 | 100 | 110 | 60  | I L Sp Sk P D
+Pixie/Monol                | 50  | 80  | 140 | 120 | 110 | 130 | I D Sk Sp P L
+Pixie/Naga                 | 80  | 120 | 110 | 150 | 130 | 90  | Sk Sp P I D L
+Pixie/Pixie                | 50  | 80  | 170 | 150 | 140 | 60  | I Sk Sp P D L
+Pixie/Plant                | 100 | 80  | 140 | 150 | 110 | 60  | Sk I Sp L P D
+Pixie/Suezo                | 50  | 80  | 170 | 150 | 110 | 60  | I Sk Sp P D L
+Pixie/Tiger                | 50  | 80  | 170 | 150 | 140 | 60  | I Sk Sp P D L
+Pixie/Worm                 | 100 | 80  | 140 | 150 | 110 | 60  | Sk I Sp L P D
+Pixie/Wracky               | 50  | 80  | 170 | 100 | 140 | 60  | I Sp Sk P D L
+Pixie/Zuum                 | 70  | 80  | 130 | 150 | 140 | 90  | Sk Sp I D P L
+Pixie/??? (Mia)            | 50  | 80  | 170 | 150 | 140 | 60  | Sk Sp I D P L
+Pixie/??? (Poison)         | 50  | 80  | 170 | 150 | 140 | 60  | Sk Sp I D P L
+Plant/Gali                 | 150 | 60  | 140 | 110 | 100 | 70  | L I Sk Sp D P
+Plant/Golem                | 160 | 120 | 110 | 80  | 70  | 130 | L D P I Sk Sp
+Plant/Hare                 | 160 | 130 | 100 | 120 | 110 | 60  | L P Sk Sp I D
+Plant/Jell                 | 140 | 50  | 120 | 110 | 100 | 80  | L I Sk Sp D P
+Plant/Monol                | 150 | 90  | 130 | 120 | 100 | 110 | L I Sk D Sp P
+Plant/Naga                 | 130 | 70  | 120 | 110 | 100 | 90  | L I Sk Sp D P
+Plant/Pixie                | 120 | 40  | 140 | 110 | 100 | 60  | I L Sk Sp D P
+Plant/Plant                | 160 | 40  | 120 | 110 | 100 | 70  | L I Sk Sp D P
+Plant/Suezo                | 140 | 80  | 150 | 110 | 90  | 50  | I L Sk Sp P D
+Plant/Tiger                | 140 | 70  | 120 | 110 | 90  | 50  | L I Sk Sp P D
+Plant/Worm                 | 170 | 80  | 110 | 100 | 90  | 50  | L I Sk Sp P D
+Plant/Zuum *               | 150 | 80  | 120 | 110 | 110 | 90  | L I Sp Sk D P
+Suezo/Gali                 | 80  | 120 | 150 | 130 | 90  | 100 | I Sk P D Sp L
+Suezo/Golem                | 80  | 120 | 170 | 130 | 90  | 100 | I Sk P D Sp L
+Suezo/Hare                 | 80  | 150 | 130 | 140 | 110 | 100 | P Sk I Sp D L
+Suezo/Jell                 | 100 | 110 | 150 | 130 | 90  | 120 | I Sk D P L Sp
+Suezo/Monol                | 80  | 120 | 140 | 100 | 90  | 110 | I P D Sk Sp L
+Suezo/Naga                 | 100 | 130 | 110 | 150 | 80  | 90  | Sk P I L D Sp
+Suezo/Pixie                | 80  | 120 | 170 | 130 |100  | 90  | I Sk P Sp D L
+Suezo/Plant                | 120 | 100 | 140 | 130 | 80  | 90  | I Sk L P D Sp
+Suezo/Suezo                | 80  | 120 | 170 | 130 | 90  | 100 | I Sk P D L Sp
+Suezo/Tiger                | 80  | 120 | 160 | 130 | 110 | 100 | I Sk P Sp D L
+Suezo/Worm                 | 110 | 120 | 140 | 130 | 90  | 100 | I Sk P L D Sp
+Suezo/Zuum                 | 80  | 120 | 150 | 130 | 90  | 100 | I Sk P D Sp L
+Suezo/??? (Gold Suezo)     | 80  | 120 | 170 | 130 | 90  | 100 | I Sk P D L Sp
+Tiger/Gali                 | 80  | 90  | 130 | 150 | 140 | 70  | Sk Sp I P L D
+Tiger/Golem                | 80  | 100 | 140 | 110 | 130 | 120 | I Sp D Sk P L
+Tiger/Hare                 | 80  | 100 | 120 | 150 | 140 | 70  | Sk Sp I P L D
+Tiger/Jell                 | 70  | 90  | 150 | 160 | 120 | 80  | Sk I Sp P D L
+Tiger/Monol                | 100 | 90  | 140 | 150 | 130 | 120 | Sk I Sp D L P
+Tiger/Naga                 | 90  | 120 | 110 | 190 | 130 | 80  | Sk Sp P I L D
+Tiger/Pixie                | 90  | 80  | 140 | 170 | 150 | 60  | Sk Sp I L P D
+Tiger/Plant                | 100 | 90  | 120 | 150 | 110 | 50  | Sk I Sp L P D
+Tiger/Suezo                | 90  | 80  | 130 | 170 | 100 | 60  | Sk I Sp L P D
+Tiger/Tiger                | 80  | 90  | 130 | 160 | 140 | 70  | Sk Sp I P L D
+Tiger/Worm                 | 80  | 90  | 150 | 120 | 110 | 50  | I Sk Sp P L D
+Tiger/Zuum                 | 80  | 90  | 120 | 160 | 140 | 100 | Sk Sp I D P L
+Undine/Joker               | 70  | 90  | 150 | 170 | 120 | 60  | Sk I Sp P L D
+Undine/Undine              | 50  | 10  | 150 | 110 | 100 | 60  | I Sk Sp D L P
+Worm/Gali                  | 150 | 100 | 130 | 110 | 60  | 80  | L I Sk P D Sp
+Worm/Golem                 | 140 | 150 | 120 | 100 | 40  | 110 | P L I D Sk Sp
+Worm/Hare                  | 130 | 140 | 80  | 120 | 110 | 90  | P L Sk Sp D I
+Worm/Jell                  | 140 | 110 | 120 | 130 | 40  | 100 | L Sk I P D Sp
+Worm/Monol                 | 150 | 120 | 110 | 130 | 70  | 90  | L Sk P I D Sp
+Worm/Naga                  | 160 | 120 | 100 | 110 | 50  | 90  | L P Sk I D Sp
+Worm/Pixie                 | 130 | 110 | 140 | 120 | 80  | 90  | I L Sk P D Sp
+Worm/Plant                 | 170 | 100 | 120 | 130 | 60  | 90  | L Sk I P D Sp
+Worm/Suezo                 | 150 | 120 | 130 | 110 | 60  | 90  | L I P Sk D Sp
+Worm/Tiger                 | 150 | 100 | 110 | 130 | 90  | 80  | L Sk I P Sp D
+Worm/Worm                  | 180 | 100 | 110 | 120 | 60  | 90  | L Sk I P D Sp
+Worm/Zuum                  | 140 | 100 | 120 | 110 | 90  | 80  | L I Sk P Sp D
+Wracky/Bajarl              | 80  | 70  | 120 | 90  | 150 | 50  | Sp I Sk L P D
+Wracky/Dragon              | 90  | 100 | 150 | 80  | 110 | 70  | I Sp P L Sk D
+Wracky/Durahan             | 50  | 40  | 140 | 60  | 120 | 100 | I Sp D Sk L P
+Wracky/Golem               | 80  | 120 | 150 | 60  | 100 | 110 | I P D Sp L Sk
+Wracky/Henger              | 40  | 70  | 140 | 90  | 150 | 50  | Sp I Sk P D L
+Wracky/Joker               | 80  | 70  | 130 | 100 | 120 | 50  | I Sp Sk L P D
+Wracky/Metalner            | 60  | 50  | 120 | 100 | 130 | 110 | Sp I D Sk L P
+Wracky/Mock                | 60  | 50  | 150 | 40  | 120 | 30  | I Sp L P Sk D
+Wracky/Pixie               | 60  | 30  | 140 | 90  | 150 | 50  | Sp I Sk L D P
+Wracky/Wracky              | 20  | 10  | 150 | 40  | 160 | 30  | Sp I Sk D L P
+Zilla/Jell                 | 100 | 150 | 120 | 80  | 90  | 110 | P I D L Sp Sk
+Zilla/Pixie                | 120 | 150 | 110 | 70  | 100 | 90  | P L I Sp D Sk
+Zilla/Tiger                | 140 | 160 | 130 | 110 | 120 | 100 | P L I Sp Sk D
+Zilla/Zilla                | 150 | 180 | 80  | 50  | 60  | 100 | P L D I Sp Sk
+Zuum/Arrowhead             | 130 | 120 | 80  | 150 | 110 | 140 | Sk D L P Sp I
+Zuum/Bajarl                | 130 | 120 | 80  | 150 | 100 | 110 | Sk L P D Sp I
+Zuum/Baku                  | 130 | 120 | 80  | 110 | 90  | 100 | L P Sk D Sp I
+Zuum/Dragon                | 90  | 120 | 110 | 140 | 100 | 80  | Sk P I Sp L D
+Zuum/Gali                  | 140 | 130 | 100 | 150 | 110 | 120 | Sk L P D Sp I
+Zuum/Golem                 | 110 | 140 | 80  | 120 | 100 | 130 | P D Sk L Sp I
+Zuum/Hare                  | 120 | 140 | 80  | 150 | 130 | 100 | Sk P Sp L D I
+Zuum/Jell *                | 120 | 130 | 100 | 140 | 110 | 140 | D Sk P L Sp I
+Zuum/Joker                 | 120 | 100 | 90  | 140 | 130 | 110 | Sk Sp L D P I
+Zuum/Kato                  | 120 | 90  | 130 | 140 | 100 | 110 | Sk I L D Sp P
+Zuum/Mock                  | 90  | 130 | 100 | 120 | 140 | 110 | Sp P Sk D I L
+Zuum/Monol                 | 110 | 100 | 80  | 120 | 90  | 150 | D Sk L P Sp I
+Zuum/Naga                  | 130 | 100 | 60  | 150 | 120 | 110 | Sk L Sp D P I
+Zuum/Pixie                 | 70  | 110 | 120 | 140 | 100 | 90  | Sk I P Sp D L
+Zuum/Plant                 | 130 | 90  | 80  | 140 | 120 | 100 | Sk L Sp D P I
+Zuum/Suezo                 | 140 | 110 | 100 | 150 | 120 | 130 | Sk L D Sp P I
+Zuum/Tiger                 | 130 | 120 | 100 | 150 | 110 | 90  | Sk L P Sp I D
+Zuum/Worm                  | 150 | 110 | 80  | 130 | 70  | 120 | L Sk D P I Sp
+Zuum/Zuum                  | 130 | 120 | 80  | 140 | 100 | 110 | Sk L P D Sp I
+
+* These stats have a 'tie' in them. This is, by all calculations otherwise,
+supposedly impossible. This means that likely there is a miscalculation in the
+numbers. The stat-order *should* be correct, but it may well not be for these
+few. If you can find which of those numbers is higher than the other, let me
+know. 
+
+The rare monsters have not been added here, because unfortunately, the
+baseline numbers haven't been found for them. If you can help with this, let
+me know!
+
+
+12) STAT GAINS
+--------------
+
+Monster              |Lif|Pow|Int|Skl|Spd|Def|Tot|Lifespan
+============================================================
+Ape/Ape              | 4 | 4 | 1 | 3 | 3 | 4 |19 | 500 weeks 
+Ape/Gali             | 4 | 4 | 3 | 3 | 3 | 4 |21 | 440 weeks 
+Ape/Golem            | 4 | 4 | 2 | 2 | 2 | 4 |18 | 480 weeks 
+Ape/Hare             | 4 | 4 | 1 | 3 | 4 | 3 |19 | 460 weeks 
+Ape/Plant            | 4 | 3 | 2 | 3 | 3 | 3 |18 | 520 weeks 
+============================================================
+Arrowhead/Arrowhead  | 3 | 3 | 2 | 3 | 2 | 5 |18 | 500 weeks 
+Arrowhead/Durahan    | 3 | 3 | 2 | 3 | 2 | 5 |18 | 500 weeks 
+Arrowhead/Golem      | 3 | 4 | 2 | 2 | 2 | 5 |18 | 480 weeks 
+Arrowhead/Henger     | 3 | 3 | 2 | 3 | 3 | 4 |18 | 460 weeks 
+Arrowhead/Joker      | 3 | 3 | 3 | 4 | 2 | 4 |19 | 440 weeks 
+Arrowhead/Mock       | 2 | 3 | 3 | 3 | 2 | 4 |17 | 520 weeks 
+Arrowhead/Suezo      | 3 | 3 | 3 | 3 | 2 | 4 |18 | 480 weeks 
+============================================================
+Bajarl/Bajarl        | 3 | 4 | 2 | 4 | 3 | 2 |18 | 450 weeks 
+Bajarl/Joker         | 3 | 4 | 3 | 4 | 3 | 2 |19 | 410 weeks 
+Ultrarl              | 3 | 4 | 2 | 4 | 3 | 2 |18 | 470 weeks
+=============================================================
+Baku/Baku            | 5 | 4 | 1 | 2 | 1 | 3 |16 | 500 weeks 
+Baku/Dragon          | 4 | 4 | 3 | 2 | 1 | 3 |17 | 440 weeks 
+Baku/Durahan         | 4 | 4 | 2 | 2 | 1 | 4 |17 | 500 weeks 
+Baku/Golem           | 4 | 4 | 2 | 2 | 1 | 4 |17 | 480 weeks 
+Baku/Hare            | 4 | 4 | 1 | 2 | 3 | 2 |16 | 460 weeks 
+Baku/Jell            | 4 | 3 | 2 | 3 | 1 | 3 |16 | 480 weeks 
+Baku/Joker           | 4 | 4 | 3 | 3 | 1 | 3 |18 | 440 weeks 
+Baku/Kato            | 4 | 3 | 3 | 2 | 3 | 3 |18 | 520 weeks 
+Baku/Tiger           | 4 | 3 | 2 | 3 | 2 | 2 |16 | 460 weeks 
+============================================================
+Beaclon/Bajarl       | 4 | 4 | 1 | 3 | 2 | 3 |17 | 420 weeks 
+Beaclon/Beaclon      | 4 | 4 | 1 | 2 | 2 | 4 |17 | 400 weeks 
+Beaclon/Dragon       | 4 | 4 | 3 | 2 | 2 | 4 |19 | 380 weeks 
+Beaclon/Ducken       | 4 | 4 | 2 | 3 | 3 | 3 |19 | 400 weeks 
+Beaclon/Durahan      | 4 | 4 | 2 | 2 | 2 | 4 |18 | 440 weeks 
+Beaclon/Golem        | 4 | 4 | 2 | 2 | 2 | 4 |18 | 420 weeks 
+Beaclon/Henger       | 3 | 4 | 2 | 3 | 3 | 3 |18 | 400 weeks 
+Beaclon/Joker        | 4 | 4 | 3 | 3 | 2 | 3 |19 | 380 weeks 
+Beaclon/Tiger        | 3 | 3 | 2 | 3 | 3 | 3 |17 | 400 weeks 
+Eggplantern          | 3 | 4 | 2 | 3 | 3 | 3 |18 | 420 weeks
+============================================================
+Centaur/Arrowhead    | 3 | 3 | 3 | 4 | 2 | 3 |18 | 440 weeks 
+Centaur/Bajarl       | 3 | 3 | 3 | 5 | 2 | 2 |18 | 420 weeks 
+Centaur/Centaur      | 3 | 3 | 4 | 5 | 2 | 2 |19 | 400 weeks 
+Centaur/Dragon       | 3 | 4 | 4 | 4 | 2 | 2 |19 | 380 weeks 
+Centaur/Durahan      | 3 | 3 | 4 | 4 | 2 | 3 |19 | 440 weeks 
+Centaur/Golem        | 3 | 4 | 4 | 3 | 2 | 3 |19 | 420 weeks 
+Centaur/Joker        | 3 | 3 | 4 | 5 | 2 | 2 |19 | 380 weeks 
+Centaur/Pixie        | 2 | 3 | 4 | 5 | 3 | 2 |19 | 400 weeks 
+Centaur/Tiger        | 3 | 3 | 4 | 5 | 3 | 2 |20 | 400 weeks 
+Trotter              | 3 | 3 | 4 | 5 | 3 | 2 |20 | 320 weeks
+============================================================
+Cpandora/Cpandora    | 5 | 2 | 2 | 3 | 3 | 1 |18 | 500 weeks 
+Cpandora/Jell        | 4 | 2 | 3 | 3 | 3 | 2 |18 | 480 weeks 
+Cpandora/Pixie       | 3 | 2 | 3 | 3 | 4 | 1 |17 | 460 weeks 
+============================================================
+Dragon/Arrowhead     | 3 | 4 | 4 | 3 | 2 | 4 |20 | 410 weeks 
+Dragon/Bajarl        | 3 | 5 | 4 | 3 | 2 | 3 |20 | 390 weeks 
+Dragon/Beaclon       | 3 | 5 | 3 | 3 | 2 | 3 |19 | 370 weeks 
+Dragon/Dragon        | 3 | 5 | 5 | 3 | 2 | 3 |21 | 350 weeks 
+Dragon/Durahan       | 3 | 5 | 4 | 3 | 2 | 4 |21 | 410 weeks 
+Dragon/Gali          | 3 | 4 | 5 | 3 | 2 | 3 |21 | 350 weeks 
+Dragon/Golem         | 3 | 5 | 4 | 2 | 2 | 4 |20 | 390 weeks 
+Dragon/Henger        | 3 | 5 | 4 | 3 | 3 | 3 |21 | 370 weeks 
+Dragon/Joker         | 3 | 4 | 5 | 4 | 2 | 3 |21 | 350 weeks 
+Dragon/Kato          | 3 | 3 | 5 | 3 | 3 | 3 |20 | 430 weeks 
+Dragon/Metalner      | 3 | 4 | 3 | 4 | 2 | 4 |19 | 390 weeks 
+Dragon/Monol         | 3 | 4 | 4 | 3 | 2 | 4 |19 | 350 weeks 
+Dragon/Pixie         | 2 | 4 | 5 | 3 | 3 | 2 |19 | 370 weeks 
+Dragon/Tiger         | 3 | 4 | 5 | 4 | 3 | 2 |21 | 380 weeks 
+Moo (From Disk)      | 4 | 4 | 1 | 2 | 2 | 4 |17 | 370 weeks
+============================================================
+Ducken/Ducken        | 3 | 3 | 3 | 4 | 5 | 1 |19 | 400 weeks 
+Ducken/Golem         | 3 | 4 | 3 | 3 | 3 | 3 |19 | 420 weeks 
+Ducken/Suezo         | 3 | 3 | 4 | 4 | 4 | 1 |19 | 420 weeks 
+Watermelony          | 3 | 3 | 3 | 4 | 5 | 1 |19 | 420 weeks
+============================================================
+Durahan/Arrowhead    | 3 | 4 | 3 | 3 | 1 | 5 |19 | 500 weeks 
+Durahan/Beaclon      | 3 | 4 | 2 | 3 | 1 | 5 |18 | 460 weeks 
+Durahan/Dragon       | 3 | 4 | 4 | 3 | 1 | 4 |19 | 440 weeks 
+Durahan/Durahan      | 3 | 4 | 3 | 3 | 1 | 5 |19 | 500 weeks 
+Durahan/Golem        | 3 | 4 | 3 | 2 | 1 | 5 |18 | 480 weeks 
+Durahan/Joker        | 3 | 4 | 4 | 4 | 1 | 4 |20 | 440 weeks 
+Durahan/Metalner     | 3 | 3 | 2 | 4 | 1 | 5 |18 | 480 weeks 
+Durahan/Mock         | 2 | 3 | 4 | 3 | 1 | 4 |17 | 520 weeks 
+Durahan/Phoenix      | 3 | 3 | 4 | 3 | 2 | 4 |19 | 480 weeks 
+Durahan/Pixie        | 2 | 3 | 4 | 3 | 2 | 3 |17 | 460 weeks 
+Durahan/Tiger        | 3 | 3 | 3 | 4 | 2 | 3 |18 | 460 weeks 
+Kokushi Muso         | 3 | 3 | 2 | 4 | 1 | 5 |18 | 500 weeks
+Ruby Knight          | 3 | 4 | 4 | 3 | 1 | 4 |19 | 460 weeks
+Shogun               | 3 | 3 | 4 | 3 | 1 | 4 |18 | 540 weeks
+============================================================
+Gaboo/Gaboo          | 5 | 4 | 1 | 1 | 4 | 1 |16 | 450 weeks 
+Gaboo/Jell           | 4 | 3 | 2 | 2 | 3 | 2 |16 | 450 weeks 
+Gaboo/Joker          | 4 | 4 | 3 | 3 | 3 | 1 |18 | 410 weeks 
+Gaboo/Tiger          | 4 | 3 | 2 | 3 | 4 | 1 |17 | 430 weeks 
+============================================================
+Gali/Gali            | 2 | 3 | 5 | 3 | 2 | 3 |18 | 350 weeks 
+Gali/Golem           | 2 | 4 | 4 | 2 | 2 | 4 |18 | 390 weeks 
+Gali/Hare            | 2 | 4 | 3 | 3 | 3 | 2 |17 | 370 weeks 
+Gali/Jell            | 2 | 3 | 5 | 3 | 2 | 3 |18 | 390 weeks 
+Gali/Monol           | 2 | 3 | 4 | 3 | 2 | 4 |18 | 350 weeks 
+Gali/Naga            | 2 | 3 | 3 | 3 | 2 | 3 |16 | 350 weeks 
+Gali/Pixie           | 2 | 3 | 5 | 3 | 3 | 2 |18 | 370 weeks 
+Gali/Plant           | 3 | 2 | 4 | 3 | 2 | 2 |16 | 430 weeks 
+Gali/Suezo           | 2 | 3 | 5 | 3 | 2 | 3 |18 | 390 weeks 
+Gali/Tiger           | 2 | 3 | 5 | 4 | 3 | 2 |19 | 370 weeks 
+Gali/Worm            | 3 | 3 | 4 | 3 | 2 | 3 |18 | 370 weeks
+Gali/Zuum            | 2 | 3 | 4 | 3 | 2 | 3 |17 | 390 weeks
+============================================================
+Ghost/Ghost          | 1 | 1 | 4 | 4 | 4 | 1 |15 | 400 weeks 
+Chef                 | 1 | 1 | 4 | 4 | 4 | 1 |15 | 420 weeks
+============================================================
+Golem/Arrowhead      | 3 | 4 | 3 | 2 | 1 | 5 |18 | 470 weeks 
+Golem/Bajarl         | 3 | 5 | 3 | 2 | 2 | 4 |19 | 450 weeks 
+Golem/Baku           | 4 | 5 | 2 | 1 | 1 | 4 |17 | 470 weeks 
+Golem/Beaclon        | 3 | 5 | 2 | 1 | 1 | 5 |17 | 430 weeks 
+Golem/Dragon         | 3 | 5 | 4 | 2 | 1 | 4 |19 | 410 weeks 
+Golem/Durahan        | 3 | 5 | 3 | 2 | 1 | 5 |19 | 470 weeks 
+Golem/Gali           | 3 | 4 | 4 | 2 | 1 | 4 |18 | 410 weeks 
+Golem/Golem          | 3 | 5 | 3 | 1 | 1 | 5 |18 | 450 weeks 
+Golem/Hare           | 3 | 5 | 2 | 2 | 3 | 3 |18 | 430 weeks 
+Golem/Henger         | 3 | 5 | 3 | 2 | 2 | 4 |19 | 430 weeks 
+Golem/Jell           | 3 | 4 | 3 | 2 | 1 | 5 |18 | 450 weeks 
+Golem/Joker          | 3 | 4 | 4 | 3 | 1 | 4 |19 | 410 weeks 
+Golem/Metalner       | 3 | 4 | 2 | 3 | 1 | 5 |18 | 450 weeks 
+Golem/Mock           | 2 | 4 | 4 | 1 | 1 | 4 |16 | 490 weeks 
+Golem/Monol          | 3 | 4 | 3 | 1 | 1 | 5 |17 | 410 weeks 
+Golem/Naga           | 3 | 5 | 2 | 2 | 1 | 4 |17 | 410 weeks 
+Golem/Pixie          | 2 | 4 | 4 | 2 | 2 | 3 |17 | 430 weeks 
+Golem/Plant          | 4 | 3 | 3 | 2 | 1 | 3 |16 | 490 weeks 
+Golem/Suezo          | 3 | 4 | 4 | 2 | 1 | 4 |18 | 450 weeks 
+Golem/Tiger          | 3 | 4 | 3 | 3 | 2 | 3 |18 | 430 weeks 
+Golem/Worm           | 4 | 4 | 3 | 2 | 1 | 4 |18 | 430 weeks 
+Golem/Wracky         | 2 | 3 | 3 | 1 | 2 | 3 |14 | 510 weeks 
+Golem/Zilla          | 3 | 5 | 3 | 1 | 1 | 4 |17 | 450 weeks 
+Golem/Zuum           | 3 | 4 | 3 | 2 | 2 | 4 |18 | 450 weeks 
+=============================================================
+Hare/Gali            | 3 | 4 | 3 | 3 | 4 | 2 |19 | 380 weeks 
+Hare/Golem           | 3 | 5 | 2 | 2 | 3 | 3 |18 | 420 weeks 
+Hare/Hare            | 3 | 5 | 1 | 3 | 5 | 1 |18 | 400 weeks 
+Hare/Jell            | 3 | 4 | 2 | 3 | 4 | 2 |18 | 420 weeks 
+Hare/Monol           | 3 | 4 | 2 | 3 | 3 | 3 |18 | 380 weeks 
+Hare/Naga            | 3 | 5 | 1 | 3 | 4 | 2 |18 | 380 weeks 
+Hare/Pixie           | 2 | 4 | 3 | 3 | 5 | 1 |17 | 400 weeks 
+Hare/Plant           | 4 | 3 | 2 | 3 | 4 | 1 |17 | 460 weeks 
+Hare/Suezo           | 3 | 4 | 3 | 3 | 4 | 1 |18 | 420 weeks 
+Hare/Tiger           | 3 | 4 | 2 | 4 | 5 | 1 |19 | 400 weeks 
+Hare/Worm            | 4 | 4 | 2 | 3 | 3 | 1 |17 | 400 weeks 
+Hare/Zuum            | 3 | 4 | 1 | 3 | 4 | 2 |17 | 420 weeks 
+KungFu Hare          | 3 | 5 | 1 | 3 | 5 | 1 |18 | 420 weeks
+============================================================
+Henger/Dragon        | 2 | 4 | 4 | 4 | 3 | 2 |19 | 380 weeks 
+Henger/Golem         | 2 | 4 | 3 | 3 | 3 | 3 |18 | 420 weeks 
+Henger/Henger        | 2 | 4 | 3 | 4 | 4 | 2 |19 | 400 weeks 
+Henger/Joker         | 2 | 4 | 4 | 4 | 3 | 2 |19 | 380 weeks 
+Henger/Metalner      | 2 | 3 | 2 | 4 | 3 | 3 |17 | 420 weeks 
+Henger/Mock          | 2 | 3 | 4 | 3 | 3 | 2 |17 | 460 weeks 
+Henger/Monol         | 2 | 4 | 3 | 3 | 3 | 3 |18 | 380 weeks 
+Henger/Zuum          | 2 | 4 | 3 | 4 | 4 | 2 |19 | 420 weeks 
+Skeleton             | 4 | 4 | 4 | 4 | 3 | 2 |19 | 400 weeks
+============================================================
+Hopper/Bajarl        | 2 | 3 | 3 | 5 | 3 | 1 |17 | 420 weeks 
+Hopper/Dragon        | 2 | 4 | 4 | 4 | 3 | 2 |19 | 380 weeks 
+Hopper/Hopper        | 2 | 3 | 3 | 5 | 3 | 1 |17 | 400 weeks 
+Hopper/Jill          | 2 | 3 | 3 | 4 | 3 | 2 |17 | 420 weeks 
+Hopper/Joker         | 2 | 3 | 4 | 5 | 3 | 1 |18 | 380 weeks 
+Hopper/Kato          | 2 | 2 | 4 | 4 | 4 | 1 |17 | 460 weeks 
+Hopper/Metalner      | 2 | 3 | 2 | 5 | 2 | 3 |17 | 420 weeks 
+Hopper/Mocchi        | 2 | 3 | 3 | 5 | 3 | 2 |18 | 420 weeks 
+Hopper/Mock          | 2 | 3 | 4 | 4 | 3 | 1 |17 | 460 weeks 
+Hopper/Pixie         | 2 | 3 | 4 | 5 | 3 | 1 |18 | 400 weeks 
+Hopper/Suezo         | 2 | 3 | 4 | 5 | 3 | 1 |18 | 420 weeks 
+Hopper/Tiger         | 2 | 3 | 3 | 5 | 3 | 1 |17 | 400 weeks 
+============================================================
+Jell/Gali            | 3 | 2 | 4 | 4 | 2 | 4 |19 | 410 weeks 
+Jell/Golem           | 3 | 3 | 4 | 3 | 2 | 4 |19 | 450 weeks 
+Jell/Hare            | 3 | 3 | 3 | 4 | 3 | 3 |19 | 430 weeks 
+Jell/Jell            | 3 | 2 | 4 | 4 | 2 | 4 |19 | 450 weeks 
+Jell/Monol           | 3 | 2 | 4 | 3 | 2 | 4 |18 | 410 weeks 
+Jell/Naga            | 3 | 3 | 3 | 4 | 2 | 4 |19 | 410 weeks 
+Jell/Pixie           | 2 | 2 | 4 | 4 | 3 | 3 |18 | 430 weeks 
+Jell/Plant           | 4 | 2 | 4 | 4 | 2 | 3 |18 | 490 weeks 
+Jell/Suezo           | 3 | 2 | 4 | 4 | 2 | 3 |18 | 450 weeks 
+Jell/Tiger           | 3 | 2 | 4 | 4 | 3 | 3 |19 | 430 weeks 
+Jell/Worm            | 4 | 2 | 4 | 4 | 2 | 3 |18 | 430 weeks 
+Jell/Zuum            | 3 | 2 | 3 | 4 | 2 | 4 |18 | 450 weeks 
+============================================================
+Jill/Hare            | 3 | 4 | 3 | 2 | 3 | 2 |17 | 430 weeks 
+Jill/Jill            | 3 | 4 | 4 | 2 | 2 | 3 |18 | 450 weeks 
+Jill/Joker           | 3 | 4 | 4 | 3 | 2 | 3 |19 | 410 weeks 
+Jill/Kato            | 3 | 3 | 4 | 2 | 3 | 3 |18 | 490 weeks 
+Jill/Pixie           | 2 | 3 | 4 | 3 | 3 | 2 |17 | 430 weeks 
+Jill/Suezo           | 3 | 4 | 4 | 3 | 2 | 3 |19 | 450 weeks 
+Jill/Tiger           | 3 | 3 | 4 | 3 | 3 | 2 |18 | 430 weeks 
+============================================================
+Joker/Bajarl         | 3 | 3 | 4 | 5 | 2 | 2 |19 | 390 weeks 
+Joker/Dragon         | 3 | 4 | 5 | 4 | 2 | 2 |20 | 350 weeks 
+Joker/Golem          | 3 | 4 | 4 | 3 | 2 | 3 |19 | 390 weeks 
+Joker/Joker          | 3 | 3 | 5 | 5 | 2 | 2 |20 | 350 weeks 
+Joker/Pixie          | 2 | 3 | 5 | 5 | 3 | 2 |20 | 370 weeks 
+Joker/Tiger          | 3 | 3 | 5 | 5 | 3 | 2 |21 | 370 weeks 
+Bloodshed            | 3 | 3 | 4 | 5 | 2 | 2 |19 | 410 weeks
+============================================================
+Kato/Dragon          | 2 | 3 | 5 | 3 | 4 | 2 |19 | 470 weeks 
+Kato/Gali            | 2 | 2 | 5 | 3 | 4 | 2 |18 | 470 weeks 
+Kato/Joker           | 2 | 2 | 5 | 4 | 4 | 2 |19 | 470 weeks 
+Kato/Kato            | 2 | 1 | 5 | 3 | 5 | 2 |18 | 550 weeks 
+Kato/Mocchi          | 2 | 2 | 4 | 3 | 5 | 3 |20 | 510 weeks 
+Kato/Suezo           | 2 | 2 | 5 | 3 | 4 | 2 |18 | 510 weeks 
+Kato/Tiger           | 2 | 1 | 5 | 4 | 5 | 2 |19 | 490 weeks 
+============================================================
+Metalner/Metalner    | 3 | 2 | 1 | 5 | 1 | 5 |17 | 450 weeks 
+Metalner/Pixie       | 2 | 2 | 3 | 5 | 2 | 3 |17 | 430 weeks 
+Metalner/Suezo       | 3 | 2 | 3 | 5 | 1 | 4 |18 | 450 weeks 
+Chinois              | 2 | 2 | 3 | 5 | 2 | 3 |17 | 450 weeks
+============================================================
+Mew/Hare             | 4 | 3 | 2 | 4 | 4 | 2 |19 | 460 weeks 
+Mew/Jell             | 3 | 2 | 3 | 4 | 3 | 3 |18 | 480 weeks 
+Mew/Mew              | 4 | 2 | 2 | 4 | 4 | 2 |18 | 500 weeks 
+Mew/Pixie            | 3 | 2 | 3 | 4 | 4 | 2 |18 | 460 weeks 
+Mew/Tiger            | 3 | 2 | 3 | 4 | 4 | 2 |18 | 460 weeks 
+============================================================
+Mocchi/Dragon        | 3 | 4 | 4 | 4 | 3 | 4 |22 | 410 weeks 
+Mocchi/Durahan       | 3 | 3 | 3 | 4 | 3 | 4 |20 | 470 weeks 
+Mocchi/Jell          | 3 | 3 | 3 | 4 | 3 | 4 |20 | 450 weeks  
+Mocchi/Joker         | 3 | 3 | 4 | 4 | 3 | 3 |20 | 410 weeks 
+Mocchi/Kato          | 3 | 2 | 4 | 4 | 4 | 3 |20 | 490 weeks 
+Mocchi/Mocchi        | 3 | 3 | 3 | 4 | 4 | 4 |21 | 450 weeks 
+Mocchi/Pixie         | 2 | 3 | 4 | 3 | 4 | 3 |19 | 430 weeks 
+Mocchi/Tiger         | 3 | 3 | 3 | 4 | 4 | 3 |20 | 430 weeks 
+============================================================ 
+Mock/Joker           | 2 | 2 | 5 | 3 | 2 | 2 |16 | 470 weeks 
+Mock/Mock            | 1 | 2 | 5 | 2 | 2 | 2 |14 | 550 weeks 
+White Birch          | 1 | 2 | 5 | 2 | 2 | 2 |14 | 570 weeks
+============================================================
+Monol/Gali           | 2 | 3 | 4 | 2 | 1 | 4 |16 | 350 weeks 
+Monol/Golem          | 2 | 4 | 3 | 2 | 1 | 5 |17 | 390 weeks 
+Monol/Hare           | 2 | 4 | 2 | 2 | 3 | 3 |16 | 370 weeks 
+Monol/Jell           | 2 | 3 | 3 | 3 | 1 | 5 |17 | 390 weeks 
+Monol/Monol          | 2 | 3 | 3 | 2 | 1 | 5 |16 | 350 weeks 
+Monol/Naga           | 2 | 3 | 2 | 3 | 1 | 4 |15 | 350 weeks 
+Monol/Plant          | 3 | 2 | 3 | 3 | 1 | 3 |15 | 430 weeks 
+Monol/Pixie          | 2 | 3 | 4 | 3 | 2 | 3 |17 | 370 weeks 
+Monol/Suezo          | 2 | 3 | 4 | 3 | 1 | 4 |17 | 390 weeks 
+Monol/Tiger          | 2 | 3 | 3 | 3 | 2 | 3 |16 | 370 weeks 
+Monol/Worm           | 3 | 3 | 3 | 2 | 1 | 4 |16 | 370 weeks 
+Monol/Zuum           | 2 | 3 | 3 | 3 | 2 | 4 |17 | 390 weeks 
+Galaxy               | 2 | 3 | 4 | 3 | 1 | 4 |17 | 410 weeks
+============================================================
+Naga/Gali            | 3 | 4 | 3 | 4 | 2 | 3 |19 | 350 weeks 
+Naga/Golem           | 3 | 4 | 2 | 3 | 2 | 4 |18 | 390 weeks 
+Naga/Hare            | 3 | 4 | 1 | 4 | 3 | 2 |17 | 370 weeks 
+Naga/Jell            | 3 | 3 | 2 | 4 | 2 | 3 |17 | 390 weeks 
+Naga/Monol           | 3 | 4 | 2 | 3 | 2 | 4 |18 | 350 weeks 
+Naga/Naga            | 3 | 4 | 1 | 4 | 2 | 3 |17 | 350 weeks 
+Naga/Pixie           | 2 | 3 | 3 | 4 | 3 | 2 |17 | 370 weeks 
+Naga/Plant           | 4 | 3 | 2 | 4 | 2 | 2 |17 | 430 weeks 
+Naga/Suezo           | 3 | 4 | 3 | 4 | 2 | 3 |19 | 390 weeks 
+Naga/Tiger           | 3 | 3 | 2 | 4 | 3 | 2 |17 | 370 weeks 
+Naga/Worm            | 4 | 3 | 2 | 4 | 2 | 3 |18 | 370 weeks 
+Naga/Zuum            | 3 | 4 | 1 | 4 | 2 | 3 |17 | 390 weeks 
+============================================================
+Niton/Bajarl         | 3 | 3 | 2 | 3 | 2 | 4 |17 | 450 weeks 
+Niton/Durahan        | 3 | 3 | 2 | 2 | 2 | 5 |17 | 470 weeks 
+Niton/Golem          | 3 | 3 | 2 | 2 | 2 | 5 |17 | 450 weeks 
+Niton/Jell           | 3 | 2 | 3 | 3 | 2 | 5 |18 | 450 weeks 
+Niton/Kato           | 3 | 2 | 3 | 2 | 3 | 4 |17 | 490 weeks 
+Niton/Metalner       | 3 | 2 | 2 | 3 | 2 | 5 |17 | 450 weeks 
+Niton/Mock           | 2 | 2 | 3 | 2 | 2 | 4 |15 | 490 weeks 
+Niton/Niton          | 3 | 2 | 2 | 2 | 2 | 5 |16 | 450 weeks 
+============================================================
+Phoenix/Phoenix      | 3 | 1 | 5 | 3 | 3 | 3 |18 | 450 weeks 
+Cinder Bird          | 3 | 1 | 5 | 3 | 3 | 3 |18 | 470 weeks
+============================================================
+Pixie/Bajarl         | 2 | 2 | 4 | 4 | 4 | 1 |17 | 420 weeks 
+Pixie/Centaur        | 2 | 2 | 5 | 4 | 3 | 1 |17 | 400 weeks 
+Pixie/Dragon         | 2 | 3 | 5 | 4 | 3 | 2 |19 | 380 weeks 
+Pixie/Durahan        | 2 | 3 | 4 | 4 | 3 | 3 |19 | 440 weeks 
+Pixie/Gali           | 1 | 2 | 5 | 4 | 3 | 2 |18 | 380 weeks 
+Pixie/Golem          | 2 | 3 | 4 | 3 | 3 | 3 |16 | 420 weeks 
+Pixie/Hare           | 2 | 3 | 3 | 4 | 4 | 1 |17 | 400 weeks 
+Pixie/Jell           | 2 | 2 | 5 | 4 | 3 | 2 |18 | 420 weeks 
+Pixie/Jill           | 2 | 3 | 5 | 3 | 3 | 2 |18 | 420 weeks 
+Pixie/Joker          | 2 | 2 | 5 | 4 | 3 | 1 |16 | 380 weeks 
+Pixie/Kato           | 1 | 2 | 5 | 4 | 4 | 1 |17 | 460 weeks 
+Pixie/Metalner       | 2 | 2 | 3 | 4 | 3 | 3 |17 | 420 weeks 
+Pixie/Mock           | 1 | 2 | 5 | 3 | 3 | 1 |15 | 460 weeks 
+Pixie/Monol          | 1 | 2 | 4 | 3 | 3 | 3 |16 | 380 weeks 
+Pixie/Naga           | 2 | 3 | 3 | 4 | 3 | 2 |17 | 380 weeks 
+Pixie/Pixie          | 1 | 2 | 5 | 4 | 4 | 1 |17 | 400 weeks 
+Pixie/Plant          | 3 | 2 | 4 | 4 | 3 | 1 |17 | 460 weeks 
+Pixie/Suezo          | 1 | 2 | 5 | 4 | 3 | 1 |16 | 420 weeks 
+Pixie/Tiger          | 1 | 2 | 5 | 4 | 4 | 1 |17 | 400 weeks 
+Pixie/Worm           | 3 | 2 | 4 | 4 | 3 | 1 |17 | 400 weeks 
+Pixie/Wracky         | 2 | 2 | 5 | 3 | 4 | 1 |17 | 480 weeks 
+Pixie/Zuum           | 2 | 2 | 4 | 4 | 4 | 2 |18 | 420 weeks 
+Kasumi               | 2 | 3 | 4 | 4 | 3 | 3 |19 | 480 weeks
+Mia                  | 2 | 3 | 5 | 4 | 4 | 1 |19 | 420 weeks 
+Poison               | 2 | 2 | 5 | 4 | 3 | 1 |16 | 400 weeks
+============================================================ 
+Plant/Gali           | 4 | 2 | 4 | 3 | 2 | 2 |17 | 470 weeks 
+Plant/Golem          | 4 | 3 | 3 | 2 | 2 | 3 |17 | 510 weeks 
+Plant/Hare           | 4 | 3 | 2 | 3 | 3 | 1 |16 | 490 weeks 
+Plant/Jell           | 4 | 2 | 3 | 3 | 2 | 2 |16 | 510 weeks 
+Plant/Monol          | 4 | 2 | 3 | 3 | 2 | 3 |17 | 470 weeks 
+Plant/Naga           | 4 | 2 | 2 | 3 | 2 | 1 |14 | 470 weeks 
+Plant/Pixie          | 3 | 1 | 4 | 3 | 3 | 1 |15 | 490 weeks 
+Plant/Plant          | 5 | 1 | 3 | 3 | 2 | 1 |15 | 550 weeks 
+Plant/Suezo          | 4 | 2 | 4 | 3 | 2 | 1 |16 | 510 weeks 
+Plant/Tiger          | 4 | 1 | 3 | 4 | 3 | 1 |16 | 490 weeks 
+Plant/Worm           | 5 | 2 | 3 | 3 | 2 | 1 |16 | 490 weeks 
+Plant/Zuum           | 4 | 2 | 3 | 3 | 2 | 2 |16 | 510 weeks 
+Reggae Plant         | 3 | 1 | 4 | 3 | 3 | 1 |15 | 510 weeks
+============================================================
+Suezo/Gali           | 2 | 3 | 5 | 4 | 2 | 2 |18 | 410 weeks 
+Suezo/Golem          | 2 | 4 | 4 | 3 | 2 | 3 |18 | 450 weeks 
+Suezo/Hare           | 2 | 4 | 3 | 4 | 3 | 2 |18 | 430 weeks 
+Suezo/Jell           | 2 | 3 | 5 | 4 | 2 | 3 |19 | 450 weeks 
+Suezo/Monol          | 2 | 3 | 4 | 3 | 2 | 3 |17 | 410 weeks 
+Suezo/Naga           | 2 | 3 | 3 | 4 | 2 | 2 |16 | 410 weeks 
+Suezo/Pixie          | 2 | 2 | 5 | 4 | 3 | 2 |19 | 430 weeks 
+Suezo/Plant          | 3 | 2 | 4 | 3 | 2 | 2 |16 | 490 weeks 
+Suezo/Suezo          | 2 | 3 | 5 | 4 | 2 | 2 |18 | 450 weeks 
+Suezo/Tiger          | 2 | 3 | 5 | 4 | 3 | 2 |19 | 430 weeks 
+Suezo/Worm           | 3 | 3 | 4 | 4 | 2 | 2 |18 | 430 weeks 
+Suezo/Zuum           | 2 | 3 | 4 | 4 | 2 | 2 |17 | 450 weeks 
+Birdie               | 2 | 3 | 5 | 4 | 2 | 2 |18 | 480 weeks
+Bronze Suezo         | 2 | 3 | 3 | 4 | 2 | 2 |16 | 430 weeks
+Gold Suezo           | 2 | 3 | 5 | 4 | 2 | 2 |18 | 450 weeks
+Silver Suezo         | 2 | 3 | 4 | 3 | 2 | 3 |17 | 430 weeks
+Sueki Suezo          | 1 | 1 | 1 | 1 | 1 | 1 | 6 | 1(!)weeks
+============================================================
+Tiger/Gali           | 2 | 2 | 4 | 4 | 3 | 2 |18 | 380 weeks 
+Tiger/Golem          | 2 | 3 | 4 | 3 | 3 | 3 |18 | 420 weeks 
+Tiger/Hare           | 2 | 3 | 3 | 4 | 4 | 1 |17 | 400 weeks 
+Tiger/Jell           | 2 | 2 | 4 | 5 | 3 | 2 |18 | 420 weeks 
+Tiger/Monol          | 2 | 2 | 4 | 4 | 3 | 3 |18 | 380 weeks 
+Tiger/Naga           | 2 | 3 | 3 | 5 | 3 | 2 |18 | 380 weeks 
+Tiger/Pixie          | 2 | 2 | 4 | 5 | 4 | 1 |18 | 400 weeks 
+Tiger/Plant          | 3 | 2 | 4 | 4 | 3 | 1 |17 | 460 weeks 
+Tiger/Suezo          | 2 | 2 | 4 | 5 | 3 | 1 |17 | 420 weeks 
+Tiger/Tiger          | 2 | 2 | 4 | 5 | 4 | 1 |18 | 400 weeks 
+Tiger/Worm           | 3 | 2 | 4 | 4 | 3 | 1 |17 | 400 weeks 
+Tiger/Zuum           | 2 | 2 | 3 | 5 | 4 | 2 |18 | 420 weeks 
+============================================================
+Undine/Joker         | 3 | 2 | 4 | 5 | 3 | 1 |18 | 380 weeks 
+Undine/Undine        | 3 | 1 | 4 | 5 | 4 | 1 |18 | 400 weeks 
+Mermaid              | 3 | 1 | 4 | 5 | 4 | 2 |19 | 420 weeks
+============================================================
+Worm/Gali            | 4 | 3 | 4 | 3 | 1 | 2 |17 | 380 weeks 
+Worm/Golem           | 4 | 4 | 3 | 2 | 1 | 3 |17 | 430 weeks 
+Worm/Hare            | 4 | 4 | 2 | 3 | 3 | 2 |18 | 400 weeks 
+Worm/Jell            | 4 | 3 | 3 | 3 | 1 | 3 |17 | 420 weeks 
+Worm/Monol           | 4 | 3 | 3 | 3 | 1 | 3 |17 | 380 weeks 
+Worm/Naga            | 4 | 3 | 2 | 3 | 1 | 2 |15 | 380 weeks 
+Worm/Pixie           | 3 | 3 | 4 | 3 | 2 | 2 |18 | 400 weeks 
+Worm/Plant           | 5 | 2 | 3 | 3 | 1 | 2 |16 | 460 weeks 
+Worm/Suezo           | 4 | 3 | 4 | 3 | 1 | 2 |17 | 420 weeks 
+Worm/Tiger           | 4 | 3 | 3 | 4 | 2 | 2 |18 | 400 weeks 
+Worm/Worm            | 5 | 3 | 3 | 3 | 1 | 2 |17 | 400 weeks 
+Worm/Zuum            | 4 | 3 | 3 | 3 | 2 | 2 |17 | 430 weeks 
+Express Worm         | 5 | 2 | 3 | 3 | 1 | 2 |16 | 480 weeks
+============================================================
+Wracky/Bajarl        | 3 | 2 | 3 | 2 | 4 | 1 |15 | 540 weeks 
+Wracky/Dragon        | 3 | 3 | 4 | 2 | 3 | 2 |16 | 500 weeks 
+Wracky/Durahan       | 3 | 2 | 4 | 2 | 3 | 3 |17 | 560 weeks 
+Wracky/Golem         | 3 | 3 | 4 | 1 | 3 | 3 |17 | 540 weeks 
+Wracky/Henger        | 3 | 2 | 4 | 2 | 4 | 1 |16 | 520 weeks 
+Wracky/Joker         | 3 | 2 | 4 | 3 | 3 | 1 |16 | 500 weeks 
+Wracky/Metalner      | 3 | 1 | 3 | 3 | 3 | 3 |16 | 540 weeks 
+Wracky/Mock          | 2 | 1 | 4 | 1 | 3 | 1 |12 | 580 weeks 
+Wracky/Pixie         | 2 | 1 | 4 | 2 | 4 | 1 |14 | 520 weeks 
+Wracky/Wracky        | 3 | 1 | 4 | 1 | 4 | 1 |14 | 600 weeks 
+Satan Clause         | 3 | 3 | 4 | 1 | 3 | 3 |17 | 560 weeks
+============================================================
+Zilla/Jell           | 3 | 4 | 3 | 2 | 3 | 3 |18 | 450 weeks 
+Zilla/Pixie          | 3 | 4 | 3 | 2 | 3 | 2 |17 | 430 weeks 
+Zilla/Tiger          | 3 | 4 | 3 | 3 | 3 | 2 |18 | 430 weeks 
+Zilla/Zilla          | 4 | 5 | 2 | 1 | 2 | 3 |17 | 450 weeks 
+============================================================
+Zuum/Arrowhead       | 3 | 3 | 2 | 4 | 3 | 4 |19 | 470 weeks 
+Zuum/Bajarl          | 3 | 3 | 2 | 4 | 3 | 3 |18 | 450 weeks 
+Zuum/Baku            | 4 | 3 | 2 | 3 | 2 | 3 |17 | 470 weeks 
+Zuum/Dragon          | 3 | 4 | 3 | 4 | 3 | 3 |20 | 410 weeks 
+Zuum/Gali            | 3 | 3 | 3 | 4 | 3 | 3 |19 | 410 weeks 
+Zuum/Golem           | 3 | 4 | 2 | 3 | 2 | 4 |18 | 450 weeks 
+Zuum/Hare            | 3 | 4 | 2 | 4 | 4 | 2 |19 | 430 weeks 
+Zuum/Jell            | 3 | 3 | 3 | 4 | 3 | 3 |19 | 450 weeks 
+Zuum/Joker           | 3 | 3 | 3 | 4 | 3 | 3 |19 | 410 weeks 
+Zuum/Kato            | 3 | 2 | 3 | 4 | 4 | 2 |18 | 490 weeks 
+Zuum/Mock            | 2 | 3 | 3 | 3 | 3 | 3 |17 | 490 weeks 
+Zuum/Monol           | 3 | 3 | 2 | 3 | 2 | 4 |17 | 410 weeks 
+Zuum/Naga            | 3 | 3 | 2 | 4 | 3 | 3 |18 | 410 weeks 
+Zuum/Plant           | 4 | 2 | 3 | 3 | 3 | 2 |17 | 490 weeks 
+Zuum/Pixie           | 2 | 3 | 3 | 4 | 3 | 2 |17 | 430 weeks 
+Zuum/Suezo           | 3 | 3 | 3 | 4 | 3 | 3 |19 | 450 weeks 
+Zuum/Tiger           | 3 | 3 | 3 | 4 | 3 | 2 |18 | 430 weeks 
+Zuum/Worm            | 4 | 3 | 2 | 3 | 2 | 3 |17 | 430 weeks 
+Zuum/Zuum            | 3 | 3 | 2 | 4 | 3 | 3 |18 | 450 weeks 
+Zebrasaurian         | 2 | 3 | 3 | 4 | 3 | 2 |17 | 450 weeks
+
+Several rares are still missing stat-gain patterns. If you have a way to
+discover them, let me know!
+
+
+UPDATE INFO
+-----------
+03/07/2006
+- Version 1.0
+- First version of this FAQ
+
+02/04/2007
+- Version 1.0.1
+- New email!
+
+03/27/2007
+- Version 1.1
+- Added a section to Dadge's list thanks to an oversight. 
+- Added my IM info for people who want to contact me directly.
+
+09/11/2007
+- Version 1.5
+- Slight editing on format for baseline stats (more space added)
+- Several monsters added to baselines (all DNA Capsule monsters)
+
+07/19/2011
+- Version 1.5.1
+- Slight formatting edit to copyright and update info
+- Copyright updated
+- ICQ removed, Twitter added, and contacts reformatted slightly
+
+07/21/2011
+- Version 1.5.2
+- Very small formatting adjustment
+- Correction in one of the charts. Well-spotted!
+
+07/26/2001
+- Version 1.8
+- New chapter added: 'Something Wrong Here...'
+
+02/02/2012
+- Still Version 1.8
+- Only adjusted the copyright
+
+
+STILL TO COME
+-------------
+-- Hopefully the rest of the rares, both in stat-gains and in baseline stats.
+-- Some odd results from one of my FAQ-users. I don't know how long it will
+take to test it out and report any results, but it certainly gives me some
+things to look over and try out. 
+
+
+THANKS TO...
+------------
+Monster Rancher Metropolis (http://monsterrancher.com/) and its community of
+researchers and players: The premier website for all things Monster Rancher. A
+lot of the information on this walkthrough came directly from there (with
+permission!). For more detailed, in-depth information about the game,
+including some of the inner workings of how the monsters are read from CD and
+various other statistics that these walkthroughs just couldn't hold, go here
+and take a wander through. 
+
+Lisa Shock: For allowing me to use some of the information found at the above
+website to be able to fill out various details above. Your work in making the
+website what it is is highly appreciated.
+
+Dark Phoenix and Nevstar: For all their information on combining, correcting,
+and how baselines come into it. If it wasn't for them, none of this would have
+been possible. I'm simply explaining the information that they, themselves,
+found out. All genuine credit should go to their hard work.
+
+Corey Shenefield: For pointing out a rather large oversight in Dadge's list.
+
+MysticSamuraiX: For giving me the baseline stats of the various DNA Capsule
+monsters. These should be the same as the ones gotten from disk (although if
+not, please feel free to send corrections).
+
+Lord Carledo: For pointing out a typo/mistake in one of the charts.
+Fortunately, nothing that threw the numbes off unduly, so I shouldn't get nasty
+hate-mail from people having combining issues!
+
+americanmimeboy: For mentioning his strange happenings to me, as well as
+sending the memory card so I can fiddle around with it and see if the puzzle
+can't be put together. 
