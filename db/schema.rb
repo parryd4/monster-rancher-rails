@@ -10,7 +10,21 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170516001243) do
+ActiveRecord::Schema.define(version: 20170523120935) do
+
+  create_table "battle_mons", force: :cascade do |t|
+    t.string "name"
+    t.integer "guts", default: 50
+    t.integer "lif"
+    t.integer "pow"
+    t.integer "int"
+    t.integer "ski"
+    t.integer "spd"
+    t.integer "def"
+    t.integer "position"
+    t.string "rank", default: ""
+    t.string "specific_tournaments", default: ""
+  end
 
   create_table "monster_templates", force: :cascade do |t|
     t.string "name"

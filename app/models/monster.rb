@@ -35,7 +35,7 @@ class Monster < ApplicationRecord
       " is really worn out"
     when 70..89
       " is exhausted"
-    when 90..110
+    when 90..99
       " is about to collapse"
     end
   end
@@ -43,7 +43,7 @@ class Monster < ApplicationRecord
   def lifespan_hit
     life_index = self.fatigue + (2 * self.stress)
     hit = [[(life_index)/35 - 1, 1 ].max , 7].min
-    self.remaining_life - hit  
+    self.remaining_life - hit
   end
 
   def light_drill(stat)
